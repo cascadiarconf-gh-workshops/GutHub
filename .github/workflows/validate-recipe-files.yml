@@ -1,4 +1,4 @@
-name: Recipe Submission Validation
+name: Recipe Validation
 
 on:
   pull_request:
@@ -6,42 +6,48 @@ on:
       - "recipes/*.md"
 
 jobs:
-  check-new-md-file:
-    name: "Check: PR Adds New Recipe Markdown File"
+  new-recipe-added:
+    name: "Recipe Validation: New recipe added?"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Ensure PR adds a new .md file in recipes/
+      - name: Check for a new recipe .md file
         run: |
           pip install --upgrade pip
           python .github/scripts/check_new_md.py
 
-  check-yaml-fields:
-    name: "Check: All YAML Fields Customized"
+  yaml-customized:
+    name: "Recipe Validation: YAML customized?"
     runs-on: ubuntu-latest
+    needs: new-recipe-added
+    if: needs.new-recipe-added.result == 'success'
     steps:
       - uses: actions/checkout@v4
-      - name: Validate all YAML fields are changed from template
+      - name: Validate YAML
         run: |
           pip install --upgrade pip
           python .github/scripts/validate_yaml_fields.py
 
-  check-image-and-tag:
-    name: "Check: Image Exists and Img Tag Matches"
+  image-exists:
+    name: "Recipe Validation: Image exists & tag matches?"
     runs-on: ubuntu-latest
+    needs: new-recipe-added
+    if: needs.new-recipe-added.result == 'success'
     steps:
       - uses: actions/checkout@v4
-      - name: Validate image path, file, and <img> tag
+      - name: Validate image
         run: |
           pip install --upgrade pip
           python .github/scripts/validate_image_and_tag.py
 
-  check-sections-changed:
-    name: "Check: Recipe Sections Are Customized"
+  sections-customized:
+    name: "Recipe Validation: Sections customized?"
     runs-on: ubuntu-latest
+    needs: new-recipe-added
+    if: needs.new-recipe-added.result == 'success'
     steps:
       - uses: actions/checkout@v4
-      - name: Validate Ingredients, Instructions, and Suggestions sections
+      - name: Validate sections
         run: |
           pip install --upgrade pip
           python .github/scripts/validate_sections.py
