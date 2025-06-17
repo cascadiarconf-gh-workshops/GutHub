@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "🍲 GutHub"
+  repo-url: "https://github.com/DOH-EPI-Coders/GutHub"
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: all-recipes.qmd
+        text: "All Recipes"
+      - href: template-recipe.qmd
+        text: "Template Recipe"
+        
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

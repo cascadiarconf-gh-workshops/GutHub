@@ -1,0 +1,15 @@
+---
+title: "All Recipes"
+---
+
+This page will eventually serve as an index of all submitted recipes.
+
+## Recipes
+
+```{r}
+files <- list.files(path = "recipes", pattern = "*.md", full.names = TRUE)
+files <- files[!grepl("template-recipe.md", files)]
+for (file in files) {
+  cat(sprintf("- [%s](%s)\n", basename(file), file))
+}
+```
