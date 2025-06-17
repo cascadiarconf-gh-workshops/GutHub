@@ -30,8 +30,10 @@ def get_yaml_frontmatter(file_path):
 
 def main():
     error_count = 0
+    file_count = 0
     for file_path in glob.glob("recipes/*.md"):
         print(f"Checking {file_path}...")
+        file_count += 1
         fm = get_yaml_frontmatter(file_path)
         if not fm:
             print(f"::error file={file_path}::Missing or malformed YAML frontmatter.")
@@ -44,10 +46,14 @@ def main():
             elif fm[key] == template_value:
                 print(f"::error file={file_path}::YAML '{key}' field has not been changed from template.")
                 error_count += 1
+            else:
+                print(f"Passed: YAML '{key}' has been changed from template.")
+    if file_count == 0:
+        print("::warning::No recipes/*.md files found for validation.")
     if error_count > 0:
         print(f"::error::YAML validation failed with {error_count} error(s).")
         sys.exit(1)
-    print("YAML validation passed!")
+    print("YAML validation passed for all files!")
 
 if __name__ == "__main__":
     main()
