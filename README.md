@@ -8,8 +8,7 @@ A training repository to practice GitHub fundamentals by creating markdown recip
 **Where GitHub Meets Good Grub!**
 
 > GutHub is a fun and interactive way to practice your GitHub skills while sharing your favorite recipes!\
-> If you've completed the **[GitHub Basics Track](https://cuddly-adventure-n862rpv.pages.github.io/userguides/userguide-github.html)**, this is your chance to put your knowledge to the test\
-> After the Basics Track, **[GitHub Basics - Workshop 1](https://github.com/DOH-EPI-Coders/github-basics-workshop-1)** walks though contributing to this **collaborative community cookbook**. 
+> Hopefully you arrived here during a workshop and have some other instructions. If you didn't, and know the basics of GitHub, see below for some simple instructions.
 
 ## 📖 How It Works
 - Create a new branch
