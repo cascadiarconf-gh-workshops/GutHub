@@ -13,4 +13,4 @@ listing:
   image-align: left
 ---
 
-Welcome to the Epi Coders GutHub community cookbook! This cookbook is automatically generated from recipe submissions to the GutHub `recipes` folder. Try it out yourself by following our contribution instructions in the [GutHub README](https://github.com/DOH-EPI-Coders/GutHub/blob/main/README.md).
+Welcome to the Epi Coders GutHub community cookbook! This cookbook is automatically generated from recipe submissions to the GutHub `recipes` folder. Try it out yourself by following our contribution instructions in the [GutHub README](https://github.com/cascadiarconf-gh-workshops/GutHub).
