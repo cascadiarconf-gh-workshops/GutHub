@@ -9,12 +9,12 @@ def main():
         print("::error::GITHUB_BASE_SHA or GITHUB_HEAD_SHA not set.")
         sys.exit(1)
 
-    # Fetch both SHAs to ensure they're present locally
+    # Ensure SHAs present locally
     subprocess.run(["git", "fetch", "--no-tags", "origin", base_sha, head_sha], check=False)
 
-    # Get list of files newly added between the two SHAs
+    # Only list files newly added in this PR
     result = subprocess.run(
-        ["git", "diff", "--diff-filter=A", "--name-only", base_sha, head_sha],
+        ["git", "diff", "--diff-filter=A", "--name-only", f"{base_sha}...{head_sha}"],
         stdout=subprocess.PIPE,
         text=True,
     )
