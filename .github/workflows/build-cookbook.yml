@@ -1,12 +1,12 @@
 name: Generate and Deploy Quarto Website
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
     paths:
-      - "recipes/*.md" # Adjust the path to reflect where your Quarto .qmd files are located
+      - "recipes/*.md"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,21 +14,19 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: ci-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build-render:
-    concurrency: ci-${{ github.ref }} # Cancels previous runs and starts a new one if concurrent jobs are started
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # Step 1: Check out the repository
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # Step 2: Ensure the renv.lock file exists
       - name: Check for renv.lock
         run: |
           if [ ! -f renv.lock ]; then
@@ -36,63 +34,35 @@ jobs:
             exit 1
           fi
 
-      # Step 3: Disable renv sandbox
       - name: Disable renv sandbox
         run: echo "RENV_CONFIG_SANDBOX_ENABLED=FALSE" >> ~/.Renviron
 
-      # Step 4: Extract the R version from renv.lock
       - name: Extract R version from renv.lock
         id: get_r_version
         run: |
           R_VERSION=$(jq -r '.R.Version' renv.lock)
           echo "R_VERSION=$R_VERSION" >> $GITHUB_ENV
 
-      # Step 5: Set up R with the extracted version
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: ${{ env.R_VERSION }}
 
-      # Step 6: Install libcurl for R dependencies
       - name: Install libcurl
         run: |
           sudo apt-get update && sudo apt-get install --yes libcurl4-openssl-dev
 
-      # Step 7: Ensure cache directories exist
-      - name: Ensure cache directories exist
-        run: |
-          mkdir -p .github/cache/renv
-          mkdir -p .github/cache/quarto
-
-      # Step 8: Cache R packages
-      - name: Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: .github/cache/renv
-          key: R-${{ runner.os }}-renv-${{ hashFiles('renv.lock') }}
-
-      # Step 9: Cache Quarto installation
-      - name: Cache Quarto
-        uses: actions/cache@v4
-        with:
-          path: .github/cache/quarto
-          key: quarto-${{ runner.os }}-${{ hashFiles('quarto.yml') }}
-
-      # Step 10: Set up Quarto
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # Step 11: Install R Dependencies
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 2
 
-      # Step 12: Render the Quarto project
       - name: Render Quarto Project
         run: quarto render
 
-      # Step 13: Upload artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -108,7 +78,6 @@ jobs:
       pages: write
       id-token: write
     steps:
-      # Step 14: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
