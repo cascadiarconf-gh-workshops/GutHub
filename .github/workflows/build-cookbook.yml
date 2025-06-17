@@ -1,12 +1,12 @@
 name: Generate and Deploy Quarto Website
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - "recipes/*.md" # Adjust the path to reflect where your Quarto .qmd files are located
-  workflow_dispatch:
 
 permissions:
   contents: write
