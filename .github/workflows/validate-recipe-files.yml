@@ -2,8 +2,10 @@ name: Validate Recipe Submissions
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened]
     paths:
       - "recipes/*.md"
+      - "recipes/*.qmd"
 
 jobs:
   validate:
@@ -16,6 +18,23 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Check if PR adds a new recipes/*.md file
+        id: check_new_recipe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get the list of added files in the PR
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+          REPO="${{ github.repository }}"
+          # Fetch only added files
+          ADDED_FILES=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json files --jq '.files[] | select(.additions > 0) | .path')
+          COUNT=$(echo "$ADDED_FILES" | grep -E '^recipes/[^/]+\.md$' | wc -l)
+          if [ "$COUNT" -eq 0 ]; then
+            echo "::warning::No new .md file was added to the recipes/ folder in this PR."
+          else
+            echo "Found $COUNT new recipes/*.md file(s) in this PR."
+          fi
 
       - name: Run recipe validator
         run: python .github/scripts/validate_recipe.py
