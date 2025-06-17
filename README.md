@@ -11,12 +11,12 @@ A training repository to practice GitHub fundamentals by creating markdown recip
 
 ## 📖 How It Works
 - Create a new branch
-- Copy the template from the cookbook [here](https://effective-adventure-z2o86yg.pages.github.io/template-recipe.html) into a new file in your branch's `recipe` folder to get started.
+- Copy the template from the cookbook [here](https://cascadiarconf-gh-workshops.github.io/GutHub/template-recipe.html) into a new file in your branch's `recipe` folder to get started.
 - Name the file with your initials and a short title followed by the `.md` extension like `ynh-banana-pudding.md`
 - Modify the template and convert your favorite recipe to Markdown (.md) format. Preview your work!
 - Finally, when ready, commit your recipe markdown file. Make sure it's within the `/recipes` folder!
 - [Optionally] Add an image of your recipe's product with the same name to the `/recipes/images` folder and use it from your recipe!
-- Follow the [GitHub Flow](https://github.com/cascadiarconf-gh-workshops/intro-github-1) to submit a pull request and ask for a review by someone you know.
+- Follow the [GitHub Flow](https://youtu.be/ykDGsbeblOs) to submit a pull request and ask for a review by someone you know.
 - Review contributions from fellow GitHub chefs-in-training.
 - Once merged, your recipe will be **automatically included** into our community cookbook!
 
