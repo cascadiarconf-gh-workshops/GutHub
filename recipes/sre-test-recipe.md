@@ -30,4 +30,4 @@ image: "./images/your-image-filename.jpg"
 ## Serving Suggestions
 - Add other suggestions here!
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food? A small note here that may escape detection.
