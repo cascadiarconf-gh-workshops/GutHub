@@ -1,6 +1,5 @@
 import glob
 import sys
-import re
 
 TEMPLATE_SECTIONS = {
     "Ingredients": ["- List", "- ingredients", "- and", "- amounts", "- here"],
@@ -29,7 +28,10 @@ def extract_section(body, header, next_header=None):
 
 def main():
     error_count = 0
+    file_count = 0
     for file_path in glob.glob("recipes/*.md"):
+        print(f"Checking {file_path}...")
+        file_count += 1
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
         # Get body after YAML
@@ -44,20 +46,28 @@ def main():
         if user_ingredients == TEMPLATE_SECTIONS["Ingredients"] or not user_ingredients:
             print(f"::error file={file_path}::Ingredients section not changed from template or is empty.")
             error_count += 1
+        else:
+            print("Passed: Ingredients section customized.")
         # Instructions
         user_instructions = extract_section(body, "Instructions", "Serving Suggestions")
         if user_instructions == TEMPLATE_SECTIONS["Instructions"] or not user_instructions:
             print(f"::error file={file_path}::Instructions section not changed from template or is empty.")
             error_count += 1
+        else:
+            print("Passed: Instructions section customized.")
         # Suggestions
         user_suggestions = extract_section(body, "Serving Suggestions")
         if user_suggestions == TEMPLATE_SECTIONS["Serving Suggestions"] or not user_suggestions:
             print(f"::error file={file_path}::Serving Suggestions section not changed from template or is empty.")
             error_count += 1
+        else:
+            print("Passed: Serving Suggestions section customized.")
+    if file_count == 0:
+        print("::warning::No recipes/*.md files found for validation.")
     if error_count > 0:
         print(f"::error::Section validation failed with {error_count} error(s).")
         sys.exit(1)
-    print("Section validation passed!")
+    print("Section validation passed for all files!")
 
 if __name__ == "__main__":
     main()
