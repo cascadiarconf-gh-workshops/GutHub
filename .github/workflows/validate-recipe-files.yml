@@ -37,5 +37,5 @@ jobs:
           fi
 
       - name: Run recipe validator
-        run: python .github/scripts/validate_recipe.py
+        run: python .github/scripts/validate-recipe.py
         continue-on-error: true
