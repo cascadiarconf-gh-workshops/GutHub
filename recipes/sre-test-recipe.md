@@ -23,4 +23,4 @@ image: "./images/your-image-filename.jpg"
 ## Serving Suggestions
 - I would not suggest serving this. It's that bad.
 
-Do better. Your workshop participants deserve it.
+Do better. Your workshop participants deserve it. Don't they?
