@@ -1,4 +1,4 @@
-name: Recipe Validation
+name: Recipe PR Validation
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   new-recipe-added:
-    name: "Recipe Validation: New recipe added?"
+    name: "New recipe added?"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,7 +21,7 @@ jobs:
           python .github/scripts/check_new_md.py
 
   yaml-customized:
-    name: "Recipe Validation: YAML customized?"
+    name: "YAML customized?"
     runs-on: ubuntu-latest
     needs: new-recipe-added
     if: needs.new-recipe-added.result == 'success'
@@ -33,7 +33,7 @@ jobs:
           python .github/scripts/validate_yaml_fields.py
 
   image-exists:
-    name: "Recipe Validation: Image exists & tag matches?"
+    name: "Image exists & tag matches?"
     runs-on: ubuntu-latest
     needs: new-recipe-added
     if: needs.new-recipe-added.result == 'success'
@@ -45,7 +45,7 @@ jobs:
           python .github/scripts/validate_image_and_tag.py
 
   sections-customized:
-    name: "Recipe Validation: Sections customized?"
+    name: "Sections customized?"
     runs-on: ubuntu-latest
     needs: new-recipe-added
     if: needs.new-recipe-added.result == 'success'
