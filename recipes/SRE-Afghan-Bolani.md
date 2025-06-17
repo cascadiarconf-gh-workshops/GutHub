@@ -7,6 +7,10 @@ description: "Bolani is a delicious Afghan stuffed flatbread, pan-fried until go
 image: "./images/sre-afghan-bolani.jpg"
 ---
 
+<p align="center">
+  <img src="./images/sre-afghan-bolani.jpg" alt="Afghan Bolani (Pan-Fried Stuffed Flatbread)" width="300"/>
+</p>
+
 ## Ingredients
 
 - 4 large **fresh flour tortillas**
