@@ -21,6 +21,6 @@ image: "./images/your-image-filename.jpg"
 1. A single instruction not even including our single boring ingredient.
 
 ## Serving Suggestions
-- I would not suggest serving this.
+- I would not suggest serving this. It's that bad.
 
 Do better. Your workshop participants deserve it.
