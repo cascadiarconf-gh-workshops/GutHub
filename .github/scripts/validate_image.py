@@ -1,4 +1,3 @@
-import glob
 import os
 import re
 import sys
@@ -23,11 +22,21 @@ def get_yaml_and_body(file_path):
     return None, None
 
 def main():
+    file_list = []
+    if os.path.exists("changed_recipes.txt"):
+        with open("changed_recipes.txt") as f:
+            file_list = [line.strip() for line in f if line.strip()]
+    else:
+        print("::warning::No changed_recipes.txt found. Skipping.")
+        sys.exit(0)
+
+    if not file_list:
+        print("::warning::No recipe files to validate.")
+        sys.exit(0)
+
     error_count = 0
-    file_count = 0
-    for file_path in glob.glob("recipes/*.md"):
+    for file_path in file_list:
         print(f"Checking {file_path}...")
-        file_count += 1
         user_yaml, body = get_yaml_and_body(file_path)
         if not user_yaml or not body:
             print(f"::error file={file_path}::Can't parse YAML or body.")
@@ -39,7 +48,6 @@ def main():
             print(f"::error file={file_path}::No 'image' key found in YAML.")
             error_count += 1
         else:
-            # Check image file exists in recipes/images/
             img_file = os.path.join("recipes/images", os.path.basename(img_path))
             if not os.path.exists(img_file):
                 print(f"::error file={file_path}::Image file not found: {img_file}")
@@ -47,7 +55,6 @@ def main():
             else:
                 print(f"Passed: Image file exists at {img_file}")
 
-            # Check the <img> tag exists and matches
             img_tag_re = re.compile(r'<img\s+src="([^"]+)"[^>]*>')
             match = img_tag_re.search(body)
             if not match:
@@ -60,8 +67,6 @@ def main():
                     error_count += 1
                 else:
                     print(f"Passed: <img> tag src matches YAML image path.")
-    if file_count == 0:
-        print("::warning::No recipes/*.md files found for validation.")
     if error_count > 0:
         print(f"::error::Image validation failed with {error_count} error(s).")
         sys.exit(1)
