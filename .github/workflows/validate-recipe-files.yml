@@ -1,4 +1,4 @@
-name: Recipe PR Validation
+name: Recipe Validation
 
 on:
   pull_request:
@@ -6,52 +6,91 @@ on:
       - "recipes/*.md"
 
 jobs:
-  new-recipe-added:
-    name: "New recipe added?"
+  get-changed-files:
+    name: "Get Changed Recipe Files"
     runs-on: ubuntu-latest
+    outputs:
+      has_recipe_files: ${{ steps.filter.outputs.has_recipe_files }}
     steps:
       - uses: actions/checkout@v4
-      - name: Set PR SHAs
-        run: |
-          echo "GITHUB_BASE_SHA=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
-          echo "GITHUB_HEAD_SHA=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
-      - name: Check for a new recipe .md file
-        run: |
-          pip install --upgrade pip
-          python .github/scripts/check_new_md.py
+
+      - name: Get changed recipe files
+        id: changed
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const files = await github.paginate(
+              github.rest.pulls.listFiles, {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.payload.pull_request.number,
+              }
+            );
+            const recipeFiles = files
+              .filter(f =>
+                (f.status === 'added' || f.status === 'modified') &&
+                f.filename.startsWith('recipes/') &&
+                f.filename.endsWith('.md')
+              )
+              .map(f => f.filename);
+
+            require('fs').writeFileSync('changed_recipes.txt', recipeFiles.join('\n'));
+            core.setOutput('has_recipe_files', recipeFiles.length > 0 ? 'true' : 'false');
+            if (recipeFiles.length === 0) {
+              core.warning('No new or changed recipes/*.md files found in this PR.');
+            } else {
+              console.log('Will validate:', recipeFiles);
+            }
+
+      - name: Upload changed recipe file list
+        uses: actions/upload-artifact@v4
+        with:
+          name: changed-recipes
+          path: changed_recipes.txt
 
   yaml-customized:
-    name: "YAML customized?"
+    name: "Recipe Validation: YAML customized?"
     runs-on: ubuntu-latest
-    needs: new-recipe-added
-    if: needs.new-recipe-added.result == 'success'
+    needs: get-changed-files
+    if: needs.get-changed-files.outputs.has_recipe_files == 'true'
     steps:
       - uses: actions/checkout@v4
-      - name: Validate YAML
+      - name: Download changed recipe file list
+        uses: actions/download-artifact@v4
+        with:
+          name: changed-recipes
+      - name: Validate YAML fields
         run: |
-          pip install --upgrade pip
+          pip install pyyaml
           python .github/scripts/validate_yaml_fields.py
 
   image-exists:
-    name: "Image exists & tag matches?"
+    name: "Recipe Validation: Image exists & tag matches?"
     runs-on: ubuntu-latest
-    needs: new-recipe-added
-    if: needs.new-recipe-added.result == 'success'
+    needs: get-changed-files
+    if: needs.get-changed-files.outputs.has_recipe_files == 'true'
     steps:
       - uses: actions/checkout@v4
-      - name: Validate image
+      - name: Download changed recipe file list
+        uses: actions/download-artifact@v4
+        with:
+          name: changed-recipes
+      - name: Validate image and tag
         run: |
-          pip install --upgrade pip
-          python .github/scripts/validate_image_and_tag.py
+          pip install pyyaml
+          python .github/scripts/validate_image.py
 
   sections-customized:
-    name: "Sections customized?"
+    name: "Recipe Validation: Sections customized?"
     runs-on: ubuntu-latest
-    needs: new-recipe-added
-    if: needs.new-recipe-added.result == 'success'
+    needs: get-changed-files
+    if: needs.get-changed-files.outputs.has_recipe_files == 'true'
     steps:
       - uses: actions/checkout@v4
+      - name: Download changed recipe file list
+        uses: actions/download-artifact@v4
+        with:
+          name: changed-recipes
       - name: Validate sections
         run: |
-          pip install --upgrade pip
           python .github/scripts/validate_sections.py
