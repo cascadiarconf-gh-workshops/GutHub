@@ -1,9 +1,9 @@
 ---
-title: Your Title Goes Here
-author: A name goes here
-date: "2025-03-05"
-categories: [list, categories, you, want, here]
-description: "Add a short description of your recipe here"
+title: A Bad, Bad Recipe
+author: Skyler Elmstrom
+date: "2025-06-17"
+categories: [do, not, eat]
+description: "A test recipe for validation testing"
 image: "./images/your-image-filename.jpg"
 ---
 
