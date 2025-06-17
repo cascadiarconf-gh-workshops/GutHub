@@ -7,7 +7,7 @@ on:
 
 jobs:
   new-recipe-added:
-    name: "Recipe Validation: New recipe added?"
+    name: "New recipe added?"
     runs-on: ubuntu-latest
     outputs:
       has_new_recipe: ${{ steps.check_new_recipe.outputs.has_new_recipe }}
@@ -93,7 +93,7 @@ jobs:
           path: changed_recipes.txt
 
   yaml-customized:
-    name: "Recipe Validation: YAML customized?"
+    name: "YAML customized?"
     runs-on: ubuntu-latest
     needs: get-changed-files
     if: needs.get-changed-files.outputs.has_recipe_files == 'true'
@@ -109,7 +109,7 @@ jobs:
           python .github/scripts/validate_yaml_fields.py
 
   image-exists:
-    name: "Recipe Validation: Image exists & tag matches?"
+    name: "Image exists & tag matches?"
     runs-on: ubuntu-latest
     needs: get-changed-files
     if: needs.get-changed-files.outputs.has_recipe_files == 'true'
@@ -125,7 +125,7 @@ jobs:
           python .github/scripts/validate_image.py
 
   sections-customized:
-    name: "Recipe Validation: Sections customized?"
+    name: "Sections customized?"
     runs-on: ubuntu-latest
     needs: get-changed-files
     if: needs.get-changed-files.outputs.has_recipe_files == 'true'
