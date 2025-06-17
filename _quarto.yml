@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: all-recipes.qmd
-        text: "All Recipes"
       - href: template-recipe.qmd
         text: "Template Recipe"
         
