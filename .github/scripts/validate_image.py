@@ -24,38 +24,48 @@ def get_yaml_and_body(file_path):
 
 def main():
     error_count = 0
+    file_count = 0
     for file_path in glob.glob("recipes/*.md"):
         print(f"Checking {file_path}...")
+        file_count += 1
         user_yaml, body = get_yaml_and_body(file_path)
         if not user_yaml or not body:
             print(f"::error file={file_path}::Can't parse YAML or body.")
             error_count += 1
             continue
+
         img_path = user_yaml.get("image")
         if not img_path:
             print(f"::error file={file_path}::No 'image' key found in YAML.")
             error_count += 1
-            continue
-        # Check image file exists in recipes/images/
-        img_file = os.path.join("recipes/images", os.path.basename(img_path))
-        if not os.path.exists(img_file):
-            print(f"::error file={file_path}::Image file not found: {img_file}")
-            error_count += 1
-        # Check the <img> tag exists and matches
-        img_tag_re = re.compile(r'<img\s+src="([^"]+)"[^>]*>')
-        match = img_tag_re.search(body)
-        if not match:
-            print(f"::error file={file_path}::No <img src=...> HTML tag found in document.")
-            error_count += 1
         else:
-            img_src = match.group(1)
-            if img_src != img_path:
-                print(f"::error file={file_path}::<img> src '{img_src}' does not match YAML image '{img_path}'.")
+            # Check image file exists in recipes/images/
+            img_file = os.path.join("recipes/images", os.path.basename(img_path))
+            if not os.path.exists(img_file):
+                print(f"::error file={file_path}::Image file not found: {img_file}")
                 error_count += 1
+            else:
+                print(f"Passed: Image file exists at {img_file}")
+
+            # Check the <img> tag exists and matches
+            img_tag_re = re.compile(r'<img\s+src="([^"]+)"[^>]*>')
+            match = img_tag_re.search(body)
+            if not match:
+                print(f"::error file={file_path}::No <img src=...> HTML tag found in document.")
+                error_count += 1
+            else:
+                img_src = match.group(1)
+                if img_src != img_path:
+                    print(f"::error file={file_path}::<img> src '{img_src}' does not match YAML image '{img_path}'.")
+                    error_count += 1
+                else:
+                    print(f"Passed: <img> tag src matches YAML image path.")
+    if file_count == 0:
+        print("::warning::No recipes/*.md files found for validation.")
     if error_count > 0:
         print(f"::error::Image validation failed with {error_count} error(s).")
         sys.exit(1)
-    print("Image validation passed!")
+    print("Image validation passed for all files!")
 
 if __name__ == "__main__":
     main()
