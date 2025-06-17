@@ -9,7 +9,7 @@ image: "./images/your-image-filename.jpg"
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./wrong/image-filename.jpg" alt="A bad image url leads to inedible results." width="300"/>
 </p>
 
 ## Ingredients
