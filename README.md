@@ -18,7 +18,7 @@ A training repository to practice GitHub fundamentals by creating markdown recip
 - Modify the template and convert your favorite recipe to Markdown (.md) format. Preview your work!
 - Finally, when ready, commit your recipe markdown file. Make sure it's within the `/recipes` folder!
 - [Optionally] Add an image of your recipe's product with the same name to the `/recipes/images` folder and use it from your recipe!
-- Follow the [GitHub Flow](https://stateofwa.sharepoint.com/:v:/r/sites/DOH-Epi-Coders/Shared%20Documents/General/GitHub/Training/Basics%20Track/Epi-Coders-GH-Basics-GitHub-Flow-SEP2024.webm?csf=1&web=1&e=48ifPG) to submit a pull request and ask for a review by someone you know.
+- Follow the [GitHub Flow](https://github.com/cascadiarconf-gh-workshops/intro-github-1) to submit a pull request and ask for a review by someone you know.
 - Review contributions from fellow GitHub chefs-in-training.
 - Once merged, your recipe will be **automatically included** into our community cookbook!
 
