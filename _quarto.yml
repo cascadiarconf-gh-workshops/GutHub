@@ -4,7 +4,7 @@ project:
 
 website:
   title: "🍲 GutHub"
-  repo-url: "https://github.com/DOH-EPI-Coders/GutHub"
+  repo-url: "https://github.com/cascadiarconf-gh-workshops/GutHub"
   repo-actions: [edit, issue]
   navbar:
     left:
