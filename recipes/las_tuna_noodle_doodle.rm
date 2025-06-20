@@ -1,6 +1,19 @@
-Tuna Noodle Doodle
+---
+title: Tuna Noodle Doodle
+author: Lindsey Smith
+date: "2025-06-20"
+categories: [main dish, noodles, easy]
+description: "When the fridge is empty"
+image: "./images/las_tuna_noodle_doodle.jpg"
+---
 
-Ingredients:
+<p align="center">
+  <img src="./images/las_tuna_noodle_doodle.jpg" alt="Tuna Noodle Doodle" width="300"/>
+</p>
+
+# Tuna Noodle Doodle
+
+## Ingredients
 - Noodles (any kind)
 - 1 can tuna, drained
 - 1 can cream of mushroom soup
@@ -9,7 +22,7 @@ Ingredients:
 - Cheese (optional)
 - Salt and pepper, to taste
 
-Instructions:
+## Instructions
 1. Cook noodles according to package directions. Drain and set aside.
 2. In a large skillet or pot over medium heat, add a splash of oil or butter. Sauté veggies until just tender.
 3. Add the cream of mushroom soup, tuna, and a splash of milk if you want a creamier sauce. Stir to combine.
