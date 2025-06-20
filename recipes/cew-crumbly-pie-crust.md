@@ -2,14 +2,14 @@
 title: Crumbly Pie Crust
 author: Camille Wendlandt
 date: "2025-06-20"
-categories: [dessert, pastry, pie]
-description: "A delicious, quick pie crust that requires no rolling pin or pre-baking."
-image: "./images/your-image-filename.jpg"
+categories: [dessert, pastry, pie, easy]
+description: "A quick pie crust that requires no rolling pin or pre-baking."
+image: "https://www.onceuponachef.com/images/2019/11/Pie_Crust_Recipe-1200x1389.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="https://www.onceuponachef.com/images/2019/11/Pie_Crust_Recipe-1200x1389.jpg" alt="Pie Crust" width="300"/>
 </p>
 
 ## Ingredients
