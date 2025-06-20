@@ -2,23 +2,33 @@
 title: Arroz con Pollo
 author: Daniel Fish
 date: "2025-06-20"
-categories: [list, categories, you, want, here]
-description: "Add a short description of your recipe here"
-image: "./images/your-image-filename.jpg"
+categories: [dinner, rice dish, easy]
+description: "Simple arroz con pollo recipe from Jacques Pepin"
+image: "./images/DJF-arrozconpollo.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/DJF-arrozconpollo.jpg" alt="Arroz con pollo image" width="300"/>
 </p>
 
 ## Ingredients
 
-- List
-- ingredients
-- and
-- amounts
-- here
+- 3 Tbs. olive oil, divided
+- 4 bone-in, skin-on chicken thighs, skin removed and reserved
+- ¾ cup ½ inch diced Spanish chorizo (or andouille as a substitute)
+- 1 cup coarsely chopped onion
+- 1 Tbs. chopped garlic
+- 1 tsp. Italian seasoning
+- ½ cup canned diced tomato
+- ½ cup chopped cilantro
+- 2 tsp. SriRacha or other hot sauce
+- 1 tsp. salt
+- Freshly ground black pepper
+- 1 cup long grain rice
+- 2 cups water
+- 3 Tbs. capers
+- Pinch of saffron, optional
 
 ## Instructions
 
