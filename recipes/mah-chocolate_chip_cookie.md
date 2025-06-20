@@ -1,5 +1,5 @@
 ---
-title: Chip Happens A Nestle Tollhouse Cookies Recipe
+title: Chip Happens, A Nestle Tollhouse Cookies Recipe
 author: Andie Hendrick & Arilene Novak
 date: "2025-03-05"
 categories: [basic, cookie]
