@@ -118,7 +118,7 @@ Optional: 1 tbsp sugar (for a sweet-sour flavor)
   Place a heavy plate or lid smaller than the pot on top to prevent floating.
 
 
-6 . Cook
+ 6 . Cook
 
   Bring to a boil over medium-high heat.
 
