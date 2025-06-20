@@ -4,11 +4,11 @@ author: Ranya Muttaleb
 date: "2025-06-20"
 categories: [Main Dish]
 description: "Iraqi Dolma is a savory mix of rice, meat and spices stuffed into vegtables like grape leaves, eggplant and peppers, then simmered in a tangy tomate-pomegrante sauce and served flipped like a cake."
-image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
+image: "./images/rm-iraqi-dolma.jpg" or leave empty quotes for now like ""
 ---
 
 <p align="center">
-  <img src="./images/ynh-brazilian-beans.jpg" alt="Brazilian Beans" width="300"/>
+  <img src="./images/rm-iraqi-dolma.jpg" alt="Iraqi Dolma" width="300"/>
 </p>
 
 # Iraqi Dolma
