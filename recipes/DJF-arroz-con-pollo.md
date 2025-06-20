@@ -14,20 +14,20 @@ image: "./images/DJF-arrozconpollo.jpg"
 
 ## Ingredients
 
-- 3 Tbs. olive oil, divided
-- 4 bone-in, skin-on chicken thighs, skin removed and reserved
+- 3 Tbs. olive oil
+- 4 bone-in chicken thighs, skin removed
 - ¾ cup ½ inch diced Spanish chorizo (or andouille as a substitute)
 - 1 cup coarsely chopped onion
 - 1 Tbs. chopped garlic
 - 1 tsp. Herbs de Provence
-- ½ cup canned diced tomato
-- ½ cup chopped cilantro
-- 2 tsp. SriRacha or other hot sauce
+- ½ cup canned tomato sauce
+- ½ cup chopped cilantro (Pepin uses frozen stems)
+- 2 tsp. SriRacha or other hot sauce (as desired)
 - 1 tsp. salt
 - Freshly ground black pepper
 - 1 cup long grain rice
 - 2 cups water
-- 3 Tbs. capers
+- 3 Tbs. capers, optional
 - Pinch of saffron, optional
 
 ## Instructions
@@ -42,4 +42,4 @@ image: "./images/DJF-arrozconpollo.jpg"
 ## Serving Suggestions
 - Serves 4
 
-Jacques Pepin's wife's favorite recipe
+Jacques Pepin's wife's favorite recipe!
