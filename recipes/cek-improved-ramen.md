@@ -2,7 +2,7 @@
 title: Improved Ramen
 author: Charles Kerr
 date: "2025-06-20"
-categories: [Ramen, Salty, Entree, Easy]
+categories: [Ramen, Noodles, Soup, Salty, Entree, Easy]
 description: "Simple add-ons for instant ramen"
 image: "https://i0.wp.com/www.theramenrater.com/wp-content/uploads/2015/12/2015_12_2_1875_007a.jpg"
 ---
