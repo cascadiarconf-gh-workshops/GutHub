@@ -17,6 +17,7 @@ image: "./images/rm_iraqi_dolma.jpg"
 ## Ingredients
 
 🍅 Vegetables (for stuffing)
+
 Choose a mix of the following (aim for ~15–20 stuffed pieces total):
 
 8–10 grape leaves, fresh or jarred
@@ -33,6 +34,7 @@ Choose a mix of the following (aim for ~15–20 stuffed pieces total):
 
 
 🍖 Filling (meat and rice)
+
 1.5 cups short-grain rice, rinsed and soaked for 30 min
 
 300g (about 10 oz) ground beef or lamb, or a mix
@@ -57,6 +59,7 @@ Salt and black pepper to taste
 
 
 🍅 Cooking Sauce
+
 2 tbsp tomato paste
 
 2 tbsp pomegranate molasses
@@ -73,65 +76,75 @@ Optional: 1 tbsp sugar (for a sweet-sour flavor)
 🔪 Step-by-Step Instructions
 
 1. Prep the Vegetables
-Grape Leaves: Rinse if jarred, soak in hot water for 10 min to soften.
+   
+  Grape Leaves: Rinse if jarred, soak in hot water for 10 min to soften.
 
-Zucchini, Eggplants, Tomatoes: Hollow out with a corer, leaving about 1/4" shell.
+  Zucchini, Eggplants, Tomatoes: Hollow out with a corer, leaving about 1/4" shell.
 
-Onions: Cut off ends, boil whole for 5–10 minutes, peel layers apart carefully.
+  Onions: Cut off ends, boil whole for 5–10 minutes, peel layers apart carefully.
 
-Peppers: Remove tops and seeds.
-
-
-3. Make the Filling
-Mix the soaked rice with ground meat, chopped onion, garlic, parsley, spices, pomegranate molasses, tomato paste, olive oil, salt, and pepper.
-
-Combine thoroughly with hands or a spoon. Do not pre-cook the filling—rice will cook with the dolma.
-
-5. Stuff the Vegetables
-Fill each veggie 3/4 full to allow rice to expand.
-
-For grape leaves: Place a spoonful of filling, fold sides, and roll tightly.
-
-For onions: Use softened layers to wrap like cigars.
+  Peppers: Remove tops and seeds.
 
 
-7. Assemble in the Pot (Traditional Upside-Down Method)
-Line the bottom of a deep pot with tomato slices, potato slices, or discarded veggie scraps to prevent burning.
+2. Make the Filling
 
-Arrange the rolled grape leaves at the bottom, then layer stuffed vegetables on top, tightly packed.
+  Mix the soaked rice with ground meat, chopped onion, garlic, parsley, spices, pomegranate molasses, tomato paste, olive oil, salt, and pepper.
 
-Place heavier veggies like peppers and tomatoes on top to help press everything down.
+  Combine thoroughly with hands or a spoon. Do not pre-cook the filling—rice will cook with the dolma.
+
+3. Stuff the Vegetables
+   
+  Fill each veggie 3/4 full to allow rice to expand.
+
+   For grape leaves: Place a spoonful of filling, fold sides, and roll tightly.
+
+  For onions: Use softened layers to wrap like cigars.
 
 
-9. Prepare and Add the Sauce
-In a bowl, mix tomato paste, pomegranate molasses, lemon juice, olive oil, hot water/broth, and optional sugar.
+4. Assemble in the Pot (Traditional Upside-Down Method)
+  Line the bottom of a deep pot with tomato slices, potato slices, or discarded veggie scraps to prevent burning.
 
-Pour the sauce over the dolma layers, just enough to reach the top layer (don’t fully submerge).
+  Arrange the rolled grape leaves at the bottom, then layer stuffed vegetables on top, tightly packed.
 
-Place a heavy plate or lid smaller than the pot on top to prevent floating.
+  Place heavier veggies like peppers and tomatoes on top to help press everything down.
 
 
-11. Cook
-Bring to a boil over medium-high heat.
+5. Prepare and Add the Sauce
+   
+  In a bowl, mix tomato paste, pomegranate molasses, lemon juice, olive oil, hot water/broth, and optional sugar.
 
-Reduce to low, cover, and simmer for 1.5 hours, until rice and veggies are fully cooked and sauce is absorbed.
+  Pour the sauce over the dolma layers, just enough to reach the top layer (don’t fully submerge).
 
-Check occasionally; add a bit more hot water if needed.
+  Place a heavy plate or lid smaller than the pot on top to prevent floating.
 
-13. Serve (the Signature Inversion!)
-Let the dolma rest for 10–15 min after cooking.
 
-Place a large tray or platter over the pot, then flip the pot upside-down in one swift motion.
+6 . Cook
 
-Lift the pot to reveal the dolma “cake”—a colorful, aromatic tower.
+  Bring to a boil over medium-high heat.
+
+  Reduce to low, cover, and simmer for 1.5 hours, until rice and veggies are fully cooked and sauce is absorbed.
+
+  Check occasionally; add a bit more hot water if needed.
+
+7. Serve (the Signature Inversion!)
+   
+  Let the dolma rest for 10–15 min after cooking.
+
+  Place a large tray or platter over the pot, then flip the pot upside-down in one swift motion.
+
+  Lift the pot to reveal the dolma “cake”—a colorful, aromatic tower.
 
 🍋 Serving Tips
-Serve with fresh lemon wedges, yogurt or laban, and flatbread.
+  
+  Serve with fresh lemon wedges, yogurt or laban, and flatbread.
 
-Best enjoyed warm, but leftovers are delicious cold too.
+  Best enjoyed warm, but leftovers are delicious cold too.
 
 📝 Optional Add-ins & Tips
+
 Add a few cloves of garlic or slices of onion between layers for extra aroma.
+
 Some Iraqi families add a sprinkle of cooked chickpeas between layers.
+
 The pomegranate molasses gives that iconic sweet-sour flavor—try not to skip it!
 
