@@ -9,7 +9,7 @@ image: "./images/mah-chocolate_chip_cookie.jpg"
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/ah-chocolate_chip_cookie.jpg" alt="Nestle Tollholl Cookie" width="300"/>
+  <img src="./images/mah-chocolate_chip_cookie.jpg" alt="Nestle Tollholl Cookie" width="300"/>
 </p>
 
 ## Ingredients
