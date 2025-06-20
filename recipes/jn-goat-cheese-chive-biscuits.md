@@ -25,5 +25,7 @@ image: "https://www.simplyrecipes.com/thmb/Bz0Ub3ZW3F3yWKu8S1LewUYhrQE=/1500x0/f
 - 1 cup buttermilk (plus an extra tablespoon for finish)
 
 ## Instructions
-Please refer to the [original recipe link] (https://www.simplyrecipes.com/recipes/savory_scones_with_goat_cheese_and_chives/). Happy baking everyone!
+1. Preheat oven to 400°F
+2. Line baking sheets with parchment paper (can substitute silpat)
+3. For remaining instructions, please refer to the [original recipe link] (https://www.simplyrecipes.com/recipes/savory_scones_with_goat_cheese_and_chives/). Happy baking everyone!
 
