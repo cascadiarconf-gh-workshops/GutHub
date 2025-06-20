@@ -19,7 +19,7 @@ image: "./images/DJF-arrozconpollo.jpg"
 - ¾ cup ½ inch diced Spanish chorizo (or andouille as a substitute)
 - 1 cup coarsely chopped onion
 - 1 Tbs. chopped garlic
-- 1 tsp. Italian seasoning
+- 1 tsp. Herbs de Provence
 - ½ cup canned diced tomato
 - ½ cup chopped cilantro
 - 2 tsp. SriRacha or other hot sauce
@@ -32,12 +32,14 @@ image: "./images/DJF-arrozconpollo.jpg"
 
 ## Instructions
 
-1. Add your instructions here in a numbered list for people to follow.
-2. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-3. Make sure you rename your image with the same name as your recipe file before uploading.
-4. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
+1. Use a deep skillet just large enough for the 4 chicken breasts.  Heat in it 2 Tbs. of olive oil over medium heat.
+2. When the oil is hot, add the skinned chicken thighs and the chorizo.  Brown each side of the chicken for about 8 minutes.
+3. Add the onion, garlic, and Herbs de Provence to the skillet, and cook for another 5 minutes.  
+4. Add the tomato, cilantro, hot sauce, and salt and pepper and cook another 3 minutes.
+6. Add the rice, water, capers, and saffron, and stir well.  
+7. Bring to a boil, reduce to a simmer and cook for 30 minutes.
 
 ## Serving Suggestions
-- Add other suggestions here!
+- Serves 4
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+Jacques Pepin's wife's favorite recipe
