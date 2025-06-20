@@ -1,6 +1,6 @@
 ---
-title: Chocolate Chip Cookies
-author: Allyson Meyers
+title: Chocolate Chip Cookies 🍪
+author: Allyson Meyers 👩🏻‍🍳
 date: "2025-04-28"
 categories: [dessert, baked good, sweets]
 description: "A simple, tasty recipe for classic chocolate chip cookies"
@@ -11,19 +11,19 @@ image: "./images/am-chocolate-chip-cookies.jpg"
   <img src="./images/am-chocolate-chip-cookies.jpg" alt="Classic Chocolate Chip Cookies" width="300"/>
 </p>
 
-# Classic Chocolate Chip Cookies
+# Classic Chocolate Chip Cookies 🍪
 
 ## Ingredients
-- 1 cup (2 sticks) unsalted butter, softened
+- 1 cup (2 sticks) unsalted butter, softened 🧈
 - 3/4 cup granulated sugar
 - 3/4 cup brown sugar (packed)
-- 2 large eggs
+- 2 large eggs 🥚
 - 2 tsp vanilla extract
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1/2 tsp salt
-- 2 cups (about 12 oz) semisweet chocolate chips
-- Optional: 1 cup chopped nuts (e.g. walnuts or pecans)
+- 2 cups (about 12 oz) semisweet chocolate chips 🍫
+- Optional: 1 cup chopped nuts (e.g. walnuts or pecans) 🌰🥜
 
 ## Instructions
 1. Preheat oven to 375°F (190°C) and line baking sheets with parchment paper or silicone mats.
