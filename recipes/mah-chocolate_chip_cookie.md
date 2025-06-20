@@ -1,7 +1,7 @@
 ---
 title: Chip Happens, A Nestle Tollhouse Cookies Recipe
 author: Andie Hendrick & Arilene Novak
-date: "2025-03-05"
+date: "2025-06-20"
 categories: [basic, cookie]
 description: "Get your stretchy pants on"
 image: "./images/mah-chocolate_chip_cookie.jpg"
@@ -35,4 +35,7 @@ Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar
 
 Step 3
 Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+
+## Serving Suggestions
+Triple the recipe for more enjoyment. 
 
