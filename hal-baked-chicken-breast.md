@@ -4,14 +4,14 @@ author: Hunter Ladd
 date: "2025-06-20"
 categories: [main dish, baked, chicken]
 description: " Juicy, tender, delicious baked chicken breasts with a simple 5-step method"
-image: ""
+image: "https://www.gimmesomeoven.com/wp-content/uploads/2015/05/Oven-Baked-Chicken-Breast-Recipe-3.jpg"
 ---
 
 <p align="center">
-  <img src="./images/ynh-brazilian-beans.jpg" alt="Brazilian Beans" width="300"/>
+  <img src="https://www.gimmesomeoven.com/wp-content/uploads/2015/05/Oven-Baked-Chicken-Breast-Recipe-3.jpg" alt="Baked Chicken Breast" width="300"/>
 </p>
 
-# Brazilian Beans and Rice
+# Baked Chicken Breast
 
 ## Ingredients
 - 4 boneless skinless chicken breasts, pounded to even thickness
