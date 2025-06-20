@@ -2,7 +2,7 @@
 title: Aglio e Olio
 author: Kevin
 date: "2025-06-20"
-categories: [classic, italian]
+categories: [classic, italian, pasta]
 description: "A basic outline of a classic dish."
 image: "./images/kn-recipe.jpg"
 ---
@@ -33,7 +33,6 @@ image: "./images/kn-recipe.jpg"
 9. Remove from heat and pour garlic and oil onto spaghetti
 10. Stir salt and pepper into bowl
 11. Top with parsley and serve
-12. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 ## Serving Suggestions
 - If desired, grate parmesan cheese onto spaghetti while still hot
