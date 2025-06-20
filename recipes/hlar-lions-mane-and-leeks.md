@@ -39,4 +39,4 @@ image: ""
 17. Add bread to heated oil and fry gently on each side until golden brown (or desired level of char)
 18. Dress bread with butter and fig jam if desired, add mushrooms and top with delicious leeks
 
-_Note: This recipe is oil heavy, so it goes great as a topper for a fresh salad (arugula is great here) or can be enjoyed all on its own. Tastes like Oregon!_
+_Note: This recipe is oil heavy, so it goes great as a topper for a fresh salad (arugula is great here) or can be enjoyed all on its own. All steps can be adjusted to your taste - in the photo, we had barely any leeks leftover from another recipe that were already chopped so we just used those and it was great. Tastes like Oregon!_
