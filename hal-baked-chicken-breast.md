@@ -4,7 +4,7 @@ author: Hunter Ladd
 date: "2025-06-20"
 categories: [main dish, baked, chicken]
 description: " Juicy, tender, delicious baked chicken breasts with a simple 5-step method"
-image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
+image: ""
 ---
 
 <p align="center">
