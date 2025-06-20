@@ -12,6 +12,7 @@ image: "./images/rm_iraqi_dolma.jpg"
 </p>
 
 # Iraqi Dolma
+🍽 Servings: 6–8 | ⏱ Prep: 1 hr | 🍲 Cook: 1.5 hrs
 
 ## Ingredients
 
