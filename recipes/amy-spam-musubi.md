@@ -4,19 +4,19 @@ author: Annia M Yoshizumi
 date: "2025-06-20"
 categories: [list, categories, you, want, here]
 description: "The snack & grab 'n go of Hawai`i"
-image: "./images/your-image-filename.jpg"
+image: "./images/musubi.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/musubi.jpg" alt="Spam Musubi" width="300"/>
 </p>
 
 ## Ingredients
 
 - Cooked white rice 
 - 1 can spam (any type or your favorite flavor)
-- Nori (roasted seaweed, ideally the "sheet" type like the Sushihane brand [like this one] (https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQA1Pbi-B1iXZGct4wO5pSUGIo_0vuLoTn8boyFkBMW-Y2nlKoojR-FON_xDqU3VBjH-pAUBmopgxRsUabnQS7lJ-El0a7BPKNbJihztMrtuk5eBNiBKnvLdQ))
+- Nori roasted seaweed, ideally the "sheet" type like the Sushihane brand)
 - Furikake seasoning
 - Shoyu
 - Brown sugar
