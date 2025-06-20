@@ -4,7 +4,7 @@ author: Brittany Barker
 date: "2025-06-20"
 categories: [side dish, dip, black beans]
 description: "A simple, tasty recipe for black beans"
-image: "./images/download.jpg" or leave empty quotes for now like ""
+image: "./images/download.jpg"
 ---
 
 <p align="center">
