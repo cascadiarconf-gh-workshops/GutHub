@@ -37,12 +37,11 @@ Not rocket science, from someone who doesn't cook too often!
 8. Add meat and egg to bowl.
 9. Pour hot soup into the bowl.
 10. Season with sriracha and sesame seeds.
-11. Add your instructions here in a numbered list for people to follow.
-12. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-13. Make sure you rename your image with the same name as your recipe file before uploading.
-14. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 ## Serving Suggestions
-- How hungry are you?  2 people share if you're not hungry, 1 if you are.
+How hungry are you?  
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+- 2 servings if you're not hungry.
+- 1 serving if you are.
+
+Comfort food for a cloudy day.
