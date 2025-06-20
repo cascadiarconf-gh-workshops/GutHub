@@ -13,6 +13,11 @@ image: "./images/am-chocolate-chip-cookies.jpg"
 
 # Classic Chocolate Chip Cookies 🍪
 
+**Servings: 24**<br>
+**Prep time: 30 minutes**</br>
+**Cook time: 15 mintues hours**<br>
+**Total time: 45 minutes hours**<br>
+
 ## Ingredients
 - 1 cup (2 sticks) unsalted butter, softened 🧈
 - 3/4 cup granulated sugar
