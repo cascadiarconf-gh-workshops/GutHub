@@ -28,10 +28,9 @@ image: "./images/musubi.jpg"
 2. Cut nori into 2" strips. Set aside. 
 3. Heat up pan to low-medium heat. Fry marinated spam to desired crispiness. Keep an eye on the heat, too much heat will burn the spam.
 4. Assemble musubis: fill spam can 1/4 full with cooked rice, sprinkle furikake seasoning on top of rice, add crispy spam. Once musubi is to desired shape, wrap 1 nori around musubi.
-2. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-e.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 ## Serving Suggestions
-- Add other suggestions here!
+- Recommend preparing 2-3 cups of rice per 1 can spam, depending on desired rice to protein ratio :)
+- Adjust shoyu and brown sugar ratio to taste!
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+Enjoy :) 
