@@ -1,6 +1,6 @@
 ---
 title: Chip Happens: A Nestle Tollhouse Cookies Recipe
-author: A name goes here
+author: Andie Hendrick & Arilene Novak
 date: "2025-03-05"
 categories: [basic, cookie]
 description: "Get your strecthy pants on"
@@ -14,16 +14,16 @@ image: "./images/mah-chocolate_chip_cookie.jpg"
 
 ## Ingredients
 
-2 1/4 cups all-purpose flour
-1 teaspoon baking soda
-1 teaspoon salt
-1 cup (2 sticks) butter, softened
-3/4 cup granulated sugar
-3/4 cup packed brown sugar
-1 teaspoon vanilla extract
-2 large eggs
-2 cups (12-ounce package) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels
-1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour
+- 2 1/4 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1 teaspoon salt
+- 1 cup (2 sticks) butter, softened
+- 3/4 cup granulated sugar
+- 3/4 cup packed brown sugar
+- 1 teaspoon vanilla extract
+- 2 large eggs
+- 2 cups (12-ounce package) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels
+- 1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour
 
 ## Instructions
 
