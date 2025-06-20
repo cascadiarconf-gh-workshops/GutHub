@@ -15,7 +15,7 @@ image: "./images/rm-iraqi-dolma.jpg" or leave empty quotes for now like ""
 
 ## Ingredients
 
-#Vegetables (for stuffing)
+🍅 Vegetables (for stuffing)
 Choose a mix of the following (aim for ~15–20 stuffed pieces total):
 
 8–10 grape leaves, fresh or jarred
