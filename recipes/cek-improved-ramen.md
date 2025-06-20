@@ -17,8 +17,8 @@ image: "https://i0.wp.com/www.theramenrater.com/wp-content/uploads/2015/12/2015_
 - Favorite instant ramen (mine is Sapporo Ichiban Tonkotsu Ramen)
 - 2 green onions / scallions
 - other vegetables to taste (e.g.: radish, carrot, mushrooms)
-- 1 hard-boiled egg
-- available pre-cooked meat (left-overs are great for this!)
+- 1 hard-boiled egg (optional)
+- available pre-cooked meat (optional, left-overs are great for this!)
 - toasted sesame seeds
 - Sriracha
 - Water and/or vegetable stock
