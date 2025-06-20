@@ -2,7 +2,7 @@
 title: Pebre
 author: Robbie Edwards
 date: "2025-06-20"
-categories: [dip, salsa]
+categories: [dip, salsa, fast]
 description: "Diced, fresh vegetables with a garlic and white wine vinegar seasoning."
 image: "./images/rde-pebre.jpg"
 ---
