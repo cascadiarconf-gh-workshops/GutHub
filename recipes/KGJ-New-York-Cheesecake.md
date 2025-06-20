@@ -42,3 +42,4 @@ image: "./images/KGJ-New-York-Cheesecake.jpg"
 
 ## Serving Suggestions
 - Serve with a berry compote from local berries
+- Serves 12
