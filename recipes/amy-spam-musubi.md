@@ -2,7 +2,7 @@
 title: Spam Musubi
 author: Annia M Yoshizumi
 date: "2025-06-20"
-categories: [list, categories, you, want, here]
+categories: [snack, lunch, easy, savory]
 description: "The snack & grab 'n go of Hawai`i"
 image: "./images/musubi.jpg"
 ---
