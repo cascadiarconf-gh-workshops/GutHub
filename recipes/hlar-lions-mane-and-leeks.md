@@ -4,8 +4,12 @@ author: Heaven Le A. Roberts
 date: "2025-06-20"
 categories: [main dish, comfort, savory, breakfast, lunch, dinner, weeknight, mushroom, foraging, local, vegetarian, one pan]
 description: "A sweet and savory way to enjoy one of the best mushrooms out there!"
-image: ""
+image: "./images/lions-mane-and-leeks.jpg"
 ---
+
+<p align="center">
+  <img src="./images/lions-mane-and-leeks.jpg" alt="A version of lion's mane mushrooms with leeks (here, not too many leeks!)" width="300"/>
+</p>
 
 # Lion's Mane and Leeks
 
