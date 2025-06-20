@@ -4,12 +4,12 @@ author: Lisset Dumet Poma
 date: "2025-06-20"
 categories: [main dish, rice, chicken]
 description: "A traditional Peruvian dish"
-image: "./images/your-image-filename.jpg"
+image: "https://i0.wp.com/eatatourtable.com/wp-content/uploads/2015/11/arroz-con-pollo_3.png?w=640&ssl=1"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="https://i0.wp.com/eatatourtable.com/wp-content/uploads/2015/11/arroz-con-pollo_3.png?w=640&ssl=1" alt="A short description of your photo goes here" width="300"/>
 </p>
 
 #Peruvian Arroz con Pollo
