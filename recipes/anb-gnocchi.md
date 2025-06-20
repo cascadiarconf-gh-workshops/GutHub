@@ -4,12 +4,12 @@ author: Alexa Bovenkamp
 date: "2025-06-20"
 categories: [one-pan meal, non-vegetarian]
 description: "Sheet Pan Gnocchi + Veggies w/ Chicken Sausage"
-image: "./images/your-image-filename.jpg"
+image: "./images/SheetPanGnocchi-10.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/SheetPanGnocchi-10.jpg" alt="Final Dish" width="300"/>
 </p>
 
 ## Ingredients
@@ -29,11 +29,6 @@ image: "./images/your-image-filename.jpg"
 - Fresh basil leaves, optional garnish
 
 ## Instructions
-
-1. Add your instructions here in a numbered list for people to follow.
-2. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-3. Make sure you rename your image with the same name as your recipe file before uploading.
-4. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 1. Heat the oven to 425℉ degrees. Lightly grease a rimmed baking sheet with oil spray.
 2. Add the gnocchi, sausage, onion, peppers, and tomatoes to the center of the baking sheet.
