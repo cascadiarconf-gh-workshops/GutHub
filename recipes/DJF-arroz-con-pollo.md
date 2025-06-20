@@ -21,7 +21,7 @@ image: "./images/DJF-arrozconpollo.jpg"
 - 1 Tbs. chopped garlic
 - 1 tsp. Herbs de Provence
 - ½ cup canned tomato sauce
-- ½ cup chopped cilantro (Pepin uses frozen stems)
+- ½ cup chopped cilantro (opt: use frozen stems)
 - 2 tsp. SriRacha or other hot sauce (as desired)
 - 1 tsp. salt
 - Freshly ground black pepper
@@ -41,5 +41,6 @@ image: "./images/DJF-arrozconpollo.jpg"
 
 ## Serving Suggestions
 - Serves 4
+- Pair with green salad
 
 Jacques Pepin's wife's favorite recipe!
