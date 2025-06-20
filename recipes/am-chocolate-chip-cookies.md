@@ -11,7 +11,7 @@ image: "./images/am-chocolate-chip-cookies.jpg"
   <img src="./images/am-chocolate-chip-cookies.jpg" alt="Classic Chocolate Chip Cookies" width="300"/>
 </p>
 
-# Brazilian Beans and Rice
+# Classic Chocolate Chip Cookies
 
 ## Ingredients
 - 1 cup (2 sticks) unsalted butter, softened
