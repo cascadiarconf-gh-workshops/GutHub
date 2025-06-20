@@ -4,11 +4,11 @@ author: Jon Garrow
 date: "2025-06-20"
 categories: [beverages, caffeine, coffee, fussy, hot drinks, for one]
 description: "A simple method for great pourover coffee using a Hario V60 dripper"
-image: "./images/your-image-filename.jpg"
+image: "./images/how-to-v60-1.jpg"
 ---
 
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="brewing coffee" width="300"/>
+  <img src="./images/how-to-v60-1.jpg" alt="brewing coffee" width="300"/>
 </p>
 
 # Coffee for One Using a Hario V60 Dripper
