@@ -1,7 +1,7 @@
 ---
 title: Grandma's Fudge
 author: Jen Gulley
-date: "2025-03-05"
+date: "2025-06-20"
 categories: [chocolate chips, marshmallows, Hershey bars]
 description: "Fudge"
 ---
