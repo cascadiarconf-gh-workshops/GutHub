@@ -9,7 +9,7 @@ image: "./images/mah-chocolate_chip_cookie.jpg"
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="Nestle Tollholl Cookie" width="300"/>
+  <img src="./images/ah-chocolate_chip_cookie.jpg" alt="Nestle Tollholl Cookie" width="300"/>
 </p>
 
 ## Ingredients
@@ -36,6 +36,3 @@ Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar
 Step 3
 Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
 
-2. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-3. Make sure you rename your image with the same name as your recipe file before uploading.
-4. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
