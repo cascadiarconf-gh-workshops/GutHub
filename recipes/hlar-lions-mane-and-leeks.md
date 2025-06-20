@@ -46,7 +46,7 @@ _Note 1: Goal is to not smoke the oil but to have sufficient heat to fry the lea
 _Note 2: You can add another T oil if desired, we don't want to dry fry lion's mane so ensure there is enough oil left to cover bottom of mushrooms_
 _Note 3: Optionally, near end of cooking time for mushrooms, add back in leeks and a dab of butter and baste the mushrooms/leeks with the heated flavor of buttery goodness_
 
-## Serving recommendations
+## Serving Suggestions
 - This recipe is oil heavy, so it goes great as a topper for a fresh salad (arugula is great here) or can be enjoyed all on its own.
 - All steps can be adjusted to your taste - in the photo, we had barely any leeks leftover from another recipe that were already chopped so we just used those and it was great.
 - Tastes like Oregon!
