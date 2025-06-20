@@ -1,9 +1,9 @@
 ---
-title: Chip Happens: A Nestle Tollhouse Cookies Recipe
+title: Chip Happens A Nestle Tollhouse Cookies Recipe
 author: Andie Hendrick & Arilene Novak
 date: "2025-03-05"
 categories: [basic, cookie]
-description: "Get your strecthy pants on"
+description: "Get your stretchy pants on"
 image: "./images/mah-chocolate_chip_cookie.jpg"
 ---
 
