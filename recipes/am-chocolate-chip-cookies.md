@@ -41,3 +41,8 @@ image: "./images/am-chocolate-chip-cookies.jpg"
 8. Bake for 10–12 minutes, or until edges are golden and centers still look slightly soft.
 9. Let cookies cool on the baking sheet for 5 minutes, then transfer to a wire rack.
 
+## Serving Suggestions
+- Best served warm
+- Tip: Serve warm with vanilla ice cream or a glass of cold milk
+
+Chocolate chip cookies are the perfect mix of sweet, buttery, and slightly salty, with soft centers and just-crispy edges that melt in your mouth. The warm, gooey chocolate chips add richness, while the smell alone can bring back memories of childhood, home kitchens, and cozy moments. They're simple, familiar, and comforting — which is exactly why they taste like nostalgia.
