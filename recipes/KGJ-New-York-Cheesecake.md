@@ -2,7 +2,7 @@
 title: New York-Style Cheesecake
 author: Kyle Jones
 date: "2025-06-20"
-categories: [dessert, ]
+categories: [dessert, intermediate, decadent]
 description: "This cheesecake replicates all the iconic slices in New York, with a dense, creamy texture and that familiar lemony tang paired with plenty of graham-cracker crust"
 image: "./images/KGJ-New-York-Cheesecake.jpg"
 ---
