@@ -4,12 +4,12 @@ author: Igor Amelichev
 date: "2025-06-20"
 categories: [healthy, lowfat, raw-food, gluten-free]
 description: "This a basic recipe that I use when I make a ceviche"
-image: "[./images/your-image-filename.jpg](https://kaleforniakravings.com/easy-shrimp-ceviche/)"
+image: "ia-peruvian-ceviche.png"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="[./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300](https://kaleforniakravings.com/easy-shrimp-ceviche/)"/>
+  <img src="ia-peruvian-ceviche.png"/>
 </p>
 
 ## Ingredients
