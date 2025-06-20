@@ -26,10 +26,6 @@ image: "https://www.onceuponachef.com/images/2019/11/Pie_Crust_Recipe-1200x1389.
 3. Transfer to a pie dish and press evenly into the bottom and up the sides.
 4. Crimp the upper edge of the crust dough if desired.
 5. Add pie filling and bake pie according to recipe.
-6. 
-7. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-8. Make sure you rename your image with the same name as your recipe file before uploading.
-9. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 ## Serving Suggestions
 - Makes crust for 1 pie.
