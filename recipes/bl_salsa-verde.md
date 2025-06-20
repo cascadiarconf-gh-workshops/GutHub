@@ -4,12 +4,12 @@ author: Benji Lamp
 date: "2025-06-20"
 categories: [Easy, Quick, Grill, Mexican, Salsa, Sauce, Dip]
 description: "Traditional mexican salsa from my mom. Rich in nutrients, great with chips as a dip, or as a sauce for any grilled meat at your next carne asada!"
-image: "./images/your-image-filename.jpg"
+image: "./images/CreamyAvocadoSalsaVerde8009727.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/CreamyAvocadoSalsaVerde8009727.jpg" alt="Salasa Verde" width="300"/>
 </p>
 
 ## Ingredients
