@@ -4,21 +4,21 @@ author: Kevin
 date: "2025-06-20"
 categories: [classic, italian]
 description: "A basic outline of a classic dish."
-image: "./images/your-image-filename.jpg"
+image: "./images/kn-recipe.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/kn-recipe.jpg" alt="Fresh Spaghetti Aglio e Olio" width="300"/>
 </p>
 
 ## Ingredients
 
-- cup of diced garlic
+- Cup of diced garlic
 - 3 tbsp of olive oil
-- half pound of spaghetti noodles
+- Half pound of spaghetti noodles
 - 2 pinches of salt and pepper
-- chopped parsley
+- Chopped parsley
 
 ## Instructions
 
