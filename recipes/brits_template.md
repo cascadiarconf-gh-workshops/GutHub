@@ -8,7 +8,7 @@ image: "./images/download.jpg" or leave empty quotes for now like ""
 ---
 
 <p align="center">
-  <img src="./images/ynh-brazilian-beans.jpg" alt="Brazilian Beans" width="300"/>
+  <img src="./images/download.jpg" alt="Brazilian Beans" width="300"/>
 </p>
 
 # Brazilian Beans and Rice
