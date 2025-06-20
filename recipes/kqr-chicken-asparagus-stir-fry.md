@@ -27,8 +27,8 @@ image: "./images/kr-chicken-asparagus-stir-fry.webp"
 
 ## Instructions
 
-1. In a 1-cup measuring cup, stir together ¼ cup water with the honey, pepper, and ¼ tsp table salt. Set aside.
-2. In a bowl big enough to fit the chicken pieces, stir together the flour, turmeric, and ½ tsp table salt. Add the chicken and toss to coat.
+1. In a 1-cup measuring cup, whisk together ¼ cup water with the honey, pepper, and ¼ tsp table salt. You may need to heat the honey up a little if it's really thick. Set aside.
+2. In a bowl big enough to fit the chicken pieces, stir together the flour, turmeric, and ½ tsp table salt. Add the chicken and toss well to coat.
 3. In a nonstick skillet, heat the oil over medium-high. Add the chicken and cook until the turmeric is fragrant and the chicken is golden brown, about 5-6 minutes.
 4. Add the asparagus to the skillet and cook until crisp-tender, 1-2 minutes.
 5. Add the honey mixture and cook, stirring, until the chicken is cooked through and the sauce has thickened, about 2-3 minutes. Remove from heat and stir in the vinegar. Done!
