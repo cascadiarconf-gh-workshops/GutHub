@@ -2,14 +2,14 @@
 title: Improved Ramen
 author: Charles Kerr
 date: "2025-06-20"
-categories: [Ramen, Entree, Easy]
+categories: [Ramen, Salty, Entree, Easy]
 description: "Simple add-ons for instant ramen"
-image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
+image: "https://i0.wp.com/www.theramenrater.com/wp-content/uploads/2015/12/2015_12_2_1875_007a.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="https://i0.wp.com/www.theramenrater.com/wp-content/uploads/2015/12/2015_12_2_1875_007a.jpg?w=500&ssl=1" width="300"/>
 </p>
 
 ## Ingredients
@@ -43,6 +43,6 @@ Not rocket science, from someone who doesn't cook too often!
 14. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
 
 ## Serving Suggestions
-- Add other suggestions here!
+- How hungry are you?  2 people share if you're not hungry, 1 if you are.
 
 Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
