@@ -16,7 +16,7 @@ image: "./images/how-to-v60-1.jpg"
 - One cup (250ml)
 
 ## Ingredients
-- 250g 95-99°C water, plus estra to rinse filter (use boiling for lighter roasts)
+- 250g 95-99°C water, plus extra to rinse filter (use boiling for lighter roasts)
 - 15g medium-fine ground coffee
 
 ## Instructions
