@@ -4,22 +4,19 @@ author: Alisha Bruton
 date: "2025-06-20"
 categories: [soup]
 description: "A hearty, flavorful soup"
-image: "" or leave empty quotes for now like ""
 ---
 
 <p align="center">
-  <img src="./images/ynh-brazilian-beans.jpg" alt="Portuguese Bean Soup" width="300"/>
+  <img src="./images/portuguese-bean-soup.jpg" alt="Portuguese Bean Soup" width="300"/>
 </p>
 
 *Portuguese bean soup takes an "everything but the kitchen sink" approach by filling a brothy base with nearly everything you can imagine--
 including beans, sausage, ham, tomatoes, potatoes, and cabbage. Serve with a sweet, warm roll. Perfection.*
 
-*It's also a great way to use ham hocks.*
-
-**Servings: 10**
-**Prep time: 30 minutes**
-**Cook time: 3.5 hours**
-**Total time: 5.5 hours**
+**Servings: 10**<br>
+**Prep time: 30 minutes**</br>
+**Cook time: 3.5 hours**<br>
+**Total time: 5.5 hours**<br>
 
 # Portuguese Bean Soup
 
@@ -62,5 +59,10 @@ including beans, sausage, ham, tomatoes, potatoes, and cabbage. Serve with a swe
 6. Stir in reserved meat from the ham hocks after 30 minutes.
 7. Stir in cabbage and cook until crisp-tender, about 5 minutes. Remove from heat and let sit,
    covered, at room temperature for 2 to 3 hours before serving. Even better, let soup chill
-   in the fridge overnight.
-Reheat until warmed through, and adjust with more salt and pepper as needed. Serve with Tabasco and Portuguese sweet rolls, if desired.
+   in the fridge overnight. Reheat until warmed through, and adjust with more salt and pepper
+   as needed. Serve with Tabasco and Portuguese sweet rolls, if desired.
+
+
+   *I found this recipe when trying to find a way to use up the ham hocks I had in my freezer.<br>
+   I love the salty, flavorful taste of this soup and love to make it in bulk, then freeze for a quick<br>
+   and delicious dinner on cold nights!*
