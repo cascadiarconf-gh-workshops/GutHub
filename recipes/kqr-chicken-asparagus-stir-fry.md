@@ -1,6 +1,6 @@
 ---
 title: Tumeric Chicken and Asparagus Stir Fry
-author: Katie Russell
+author: Katie Russell, via NY Times Cooking
 date: "2025-06-20"
 categories: [chicken, dinner, fast,]
 description: "A fast, easy stir fry with tumeric, black pepper and honey"
@@ -31,4 +31,8 @@ image: "./images/kr-chicken-asparagus-stir-fry.webp"
 2. In a bowl big enough to fit the chicken pieces, stir together the flour, turmeric, and ½ tsp table salt. Add the chicken and toss to coat.
 3. In a nonstick skillet, heat the oil over medium-high. Add the chicken and cook until the turmeric is fragrant and the chicken is golden brown, about 5-6 minutes.
 4. Add the asparagus to the skillet and cook until crisp-tender, 1-2 minutes.
-5. Add the honey mixture and cook, stirring, until the chicken is cooked through and the sauce has thickened, about 2-3 minutes. Remove from heat and stir in the vinegar. Serve over rice, with lime wedges on the side. 
+5. Add the honey mixture and cook, stirring, until the chicken is cooked through and the sauce has thickened, about 2-3 minutes. Remove from heat and stir in the vinegar. Done!
+
+## Serving suggestions
+
+Serve over rice, with lime wedges on the side. 
