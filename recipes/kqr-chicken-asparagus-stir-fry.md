@@ -1,7 +1,7 @@
 ---
 title: Tumeric Chicken and Asparagus Stir Fry
 author: Katie Russell
-date: "2025-03-05"
+date: "2025-06-20"
 categories: [chicken, dinner, fast,]
 description: "A fast, easy stir fry with tumeric, black pepper and honey"
 image: "./images/kr-chicken-asparagus-stir-fry.webp"
