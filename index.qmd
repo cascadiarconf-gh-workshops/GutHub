@@ -1,5 +1,5 @@
 ---
-title: "Epi Coders 'GutHub' Community Cookbook"
+title: "Cascadia R Conference 2025 'GutHub' Community Cookbook"
 listing:
   contents: recipes
   sort:
