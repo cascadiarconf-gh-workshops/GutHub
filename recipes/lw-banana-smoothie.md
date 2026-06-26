@@ -2,27 +2,27 @@
 title: Banana Smoothie
 author: Lydia Woldemichael
 date: "2026-06-26"
-categories: [side dish, dip, black beans]
-description: "A simple, tasty recipe for black beans"
+categories: [beverage, banana]
+description: "A simple, tasty recipe for a banana smoothie"
 image: "./images/lw-banana-smoothie.jpg"
 ---
 
 <p align="center">
-  <img src="./images/lw-banana-smoothie.jpg" alt="Banana Smoothie with a 3 slices of banana on top with a sprinkle of cinnamon" width="300"/>
+  <img src="./images/lw-banana-smoothie.jpg" alt="Banana Smoothie with a 3 slices of banana on top with a sprinkle of cinnamon in a glass cup" width="300"/>
 </p>
 
 # Banana Smoothie
 
 ## Ingredients
-- 1 cup black beans
-- 2 cups cooked rice
-- 1 onion, diced
-- 2 cloves garlic, minced
-- 1 tsp cumin
-- Salt and pepper to taste
+- 2 ripe bananas
+- 1 cup of water
+- 1/2 cup of milk
+- 1/2 cup of yogurt
+- 1 tbsp of flaxseed
+- 1/2 cup of ice cubes
+- 1 tbsp of honey
 
 ## Instructions
-1. Soak the black beans overnight or use canned beans.
-2. Sauté onions and garlic in a pan.
-3. Add beans, cumin, salt, and pepper; simmer for 15 minutes.
-4. Serve over rice and enjoy!
+1. Blend ingredients together on high until smooth and creamy.
+2. You can adjust the thickness by adding more ice or yogurt.
+3. Transfer to a cup and enjoy.
