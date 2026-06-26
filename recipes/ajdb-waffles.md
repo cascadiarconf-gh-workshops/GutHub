@@ -4,7 +4,7 @@ author: Alexis Burnett
 date: "2026-06-26"
 categories: [breakfast]
 description: "Airy, delicate, and crisp-edged waffles"
-image: ""
+image: "recipes/images/ajdb-waffles.jfif"
 ---
 
 ```markdown
@@ -12,7 +12,7 @@ image: ""
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="one waffle on a plate" width="300"/>
+  <img src="recipes/images/ajdb-waffles.jfif" alt="one waffle on a plate" width="300"/>
 </p>
 
 ## Ingredients
