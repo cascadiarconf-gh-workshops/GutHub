@@ -3,7 +3,7 @@ title: Black Bean Quesadillas
 author: Emile Latour
 date: "2026-06-26"
 categories: [main dish, black beans, vegetarian]
-description: "Add a short description of your recipe here"
+description: "Easy, tasty, vegetarian"
 image: "./images/black-bean-quesadillas.jpeg"
 ---
 
