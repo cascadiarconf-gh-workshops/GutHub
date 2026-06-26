@@ -29,3 +29,6 @@ image: "./images/banana-bread.jpg"
 4. Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes.
 5. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.
 6. Eat it.
+
+## Serving Suggestions
+Butter is your friend.
