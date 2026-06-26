@@ -1,9 +1,9 @@
 ---
-title: Brazilian Beans
+title: Easy Pancakes
 author: Karen Adair
 date: "2026-06-26"
 categories: [side dish, dip, black beans]
-description: "A simple, tasty recipe for black beans"
+description: "An easy recipe for pancakes"
 image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
 ---
 
@@ -11,7 +11,7 @@ image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
   <img src="./images/ynh-brazilian-beans.jpg" alt="Brazilian Beans" width="300"/>
 </p>
 
-# Brazilian Beans and Rice
+# Easy Pancakes
 
 ## Ingredients
 - 1 cup black beans
