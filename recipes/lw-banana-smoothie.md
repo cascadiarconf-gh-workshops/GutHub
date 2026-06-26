@@ -13,6 +13,9 @@ image: "./images/lw-banana-smoothie.jpg"
 
 # Banana Smoothie
 
+## Serving Suggestions
+- As much as you want! It's a great drink to enjoy in any season!
+
 ## Ingredients
 - 2 ripe bananas
 - 1 cup of water
