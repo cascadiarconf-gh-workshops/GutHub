@@ -4,11 +4,11 @@ author: Marty Marquis
 date: "2026-06-26"
 categories: [main dish]
 description: "Easy umami bomb with cabbage and scallions"
-image: ""
+image: "./images/mm-fried-egg-yakisoba.webp"
 ---
 
 <p align="center">
-  <img src="" alt="Fried Egg Yakisoba" width="300"/>
+  <img src="./images/mm-fried-egg-yakisoba.webp" alt="Fried Egg Yakisoba" width="300"/>
 </p>
 
 # Fried Egg Yakisoba
