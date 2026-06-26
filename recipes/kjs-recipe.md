@@ -4,7 +4,7 @@ author: Kaden J. Schachtel
 date: "2026-06-26"
 categories: [Dessert]
 description: "A sweet, tasty strawberry rhubarb pie. This recipe is perfect for late-night cravings, family gatherings, and everything in between"
-image: "https://www.simplyrecipes.com/thmb/v0rIYWoLVj6T35br_PHw3qW0Qlg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Strawberry-Rhubarb-Pie-LEAD-04-ae2fba55b2af407db2b4d37ec6f92e43.jpg"
+image: "./images/kjs-recipe.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
