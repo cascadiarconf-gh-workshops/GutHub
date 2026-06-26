@@ -23,7 +23,7 @@ Egg Wash: 1 large egg mixed with 1 tablespoon of water.
 ## Instructions
 
 1. Prepare or unroll two 9-inch pie crusts
-2. Mix the Filling
+2. Mix the Filling (Strawberries, Rhubarb, 3/4 cup granulated sugar)
 3. Assemble the Pie
 4. Bake in an oven preheated to 400° F for 15 minutes, then reduce the heat to 350° F and bake for an additional 40 to 50 minutes until the crust is golden brown and the filling is bubbling.
 
