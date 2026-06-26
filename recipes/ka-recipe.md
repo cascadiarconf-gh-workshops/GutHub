@@ -3,7 +3,7 @@ title: Easy Pancakes
 author: Karen Adair
 date: "2025-06-26"
 categories: [breakfast]
-description: "A simple, tasty recipe for black beans"
+description: "A simple, tasty recipe for pancakes"
 image: "./images/ka-recipe.jpg"
 ---
 
