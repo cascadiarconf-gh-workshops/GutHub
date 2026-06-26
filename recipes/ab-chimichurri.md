@@ -28,10 +28,10 @@ image: "./images/ab-chimichurri.webp"
 
 ## Instructions
 
-1. Add the garlic, shallot, parsely, coriander, lemon juice, red wine vinegar, olive oil into a food processor
-2. Flavor the sauce with the red pepper flakes, oregano, salt, and black pepper
+1. Add garlic, shallot, parsely, cilantro, lemon juice, red wine vinegar, olive oil into a food processor
+2. Flavor the sauce with red pepper flakes, oregano, salt, and black pepper
 3. Taste and adjust where needed (typically, I add more red pepper flakes and salt at this point)
 
 ## Serving Suggestions
 
-I've been loving adding this chimichurri to avocado toast!
+I've been loving adding this chimichurri to avocado toast! It stays good in the fridge for about two weeks.
