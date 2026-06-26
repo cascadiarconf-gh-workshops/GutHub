@@ -47,3 +47,7 @@ image: "./images/al-sticky-chicken-rice-bowls.jpg"
 4. Toss chicken with oil and all spices. Lay flat in air fryer and cook in preheated air fryer at 400F to 12 minutes or until chicken is 160F internally.
 5. While chicken is cooking, add soy sauce, honey, rice vinegar, garlic, sriracha, sesame oil, and ground ginger to a sauce pot. Bring to a boil. Once boiling, add arrowroot slurry. Let boil 4-5 minutes or until sauce has thickened greatly.
 6. Prepare bowls by layering rice, broccoli, chicken, and covering in sauce. Mix together spicy mayo ingredients and drizzle on top. Top with sesame seeds.
+
+## Serving Suggestions
+- Highly recommend the sesame seeds and maybe add green onion, sriracha, or chili crisp!
+
