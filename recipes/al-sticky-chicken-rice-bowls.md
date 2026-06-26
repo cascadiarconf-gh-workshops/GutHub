@@ -8,7 +8,7 @@ image: "./images/al-sticky-chicken-rice-bowls.jpg"
 ---
 
 <p align="center">
-  <img src="./images/al-sticky-chicken-rice-bowls" alt="Sticky Chicken Rice Bowls" width="300"/>
+  <img src="./images/al-sticky-chicken-rice-bowls.jpg" alt="Sticky Chicken Rice Bowls" width="300"/>
 </p>
 
 # Sticky Chicken Rice Bowls
