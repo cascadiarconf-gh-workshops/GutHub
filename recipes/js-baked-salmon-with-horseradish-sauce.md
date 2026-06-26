@@ -4,18 +4,18 @@ author: Jen Seamans
 date: "2026-06-26"
 categories: [fish, salmon, dinner]
 description: "Oven baked salmon with creamy horseradish dill sauce"
-image: "./images/your-image-filename.jpg"
+image: "./images/js-baked-salmon.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/js-baked-salmon.jpg" alt="Image of baked salmon with horseradish sauce" width="300"/>
 </p>
 
 ## Ingredients
 
-- 1.5-2 lb wild sockeye salmon fillet
-- 1 small onion, sliced
+- wild sockeye salmon fillet (1.5-2 lb)
+- 1 small onion
 - 1 lemon
 - 1/3 c sour cream
 - 1/3 c mayonnaise
