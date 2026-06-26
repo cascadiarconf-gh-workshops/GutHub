@@ -9,7 +9,7 @@ image: "https://www.simplyrecipes.com/thmb/v0rIYWoLVj6T35br_PHw3qW0Qlg=/750x0/fi
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="[./images/your-image-filename.jpg](https://www.simplyrecipes.com/thmb/v0rIYWoLVj6T35br_PHw3qW0Qlg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Strawberry-Rhubarb-Pie-LEAD-04-ae2fba55b2af407db2b4d37ec6f92e43.jpg)" alt="An image of a slice of strawberry rhubarb pie" width="300"/>
+  <img src="./images/kjs-recipe.jpg" alt="An image of a slice of strawberry rhubarb pie" width="300"/>
 </p>
 
 ## Ingredients
