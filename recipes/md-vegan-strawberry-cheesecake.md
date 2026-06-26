@@ -51,4 +51,4 @@ image: "./images/md-vegan-strawberry-cheesecake.JPG"
 2. Just before serving, top the cheesecake with the strawberry compote and reserved fresh strawberries. Leftovers will keep in the fridge for 5 days.
 
 ## Serving Suggestions
-I don't know. Slice, serve and eat?
+- I don't know. Slice, serve and eat?
