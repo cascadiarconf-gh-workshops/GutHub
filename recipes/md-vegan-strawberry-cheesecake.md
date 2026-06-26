@@ -4,7 +4,7 @@ author: Mary Dinsdale
 date: "2026-06-26"
 categories: [vegan, dessert, awesome]
 description: "I love cheesecake!"
-image: "./images/md-vegan-strawberry-cheesecake.JPG
+image: "./images/md-vegan-strawberry-cheesecake.JPG"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
