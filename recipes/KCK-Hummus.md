@@ -19,15 +19,15 @@ image: "./images/KCK-Hummus.png"
 
 ## Ingredients
 
-2 (15-ounce) cans chickpeas, rinsed
-½ teaspoon baking soda
-4 garlic cloves, peeled
-½ cup lemon juice (2 lemons), plus extra for seasoning
-1 teaspoon table salt
-¼ teaspoon ground cumin, plus extra for garnish
-½ cup tahini, stirred well
-2 tablespoons extra-virgin olive oil, plus extra for drizzling
-1 tablespoon minced fresh parsley
+- 2 (15-ounce) cans chickpeas, rinsed
+- ½ teaspoon baking soda
+- 4 garlic cloves, peeled
+- ½ cup lemon juice (2 lemons), plus extra for seasoning
+- 1 teaspoon table salt
+- ¼ teaspoon ground cumin, plus extra for garnish
+- ½ cup tahini, stirred well
+- 2 tablespoons extra-virgin olive oil, plus extra for drizzling
+- 1 tablespoon minced fresh parsley
 
 
 ## Instructions
