@@ -4,12 +4,12 @@ author: Sadie Shoemaker
 date: "2026-06-26"
 categories: [vegetarian, easy, instant pot, soup, gluten free]
 description: "Easy and healthy instant pot meal that is perfect for meal prep"
-image: "./images/your-image-filename.jpg"
+image: "./images/ss-instant-pot-tortilla-soup.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/ss-instant-pot-tortilla-soup.jpg" alt="Tortilla soup with lots of toppings, like a " width="300"/>
 </p>
 
 ## Ingredients
