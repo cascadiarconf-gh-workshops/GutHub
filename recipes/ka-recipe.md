@@ -4,7 +4,7 @@ author: Karen Adair
 date: "2025-06-26"
 categories: [breakfast]
 description: "A simple, tasty recipe for black beans"
-image: "./images/ka-recipe.jpg" ./images/ka-recipe.jpg
+image: "./images/ka-recipe.jpg"
 ---
 
 <p align="center">
