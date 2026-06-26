@@ -49,4 +49,8 @@ Toppings
 5. After it has released, add the zucchini, turn on sauté setting again, and let simmer till zucchini is tender.
 6. Ladle into bowls and add toppings!
 
+## Serving Suggestions
+ - Fresh-squeezed lime is a must
+ - If you have the inferior cilantro soap gene, green onion also works on top!
+
 This is a very can-heavy, easy recipe! Makes a ton of soup which is perfect for meal prepping. 
