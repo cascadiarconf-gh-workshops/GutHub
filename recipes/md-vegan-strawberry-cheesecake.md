@@ -50,7 +50,3 @@ image: "./images/your-image-filename.jpg"
 1. Add the majority of the strawberries, optional raspberries, and all the cornstarch to a small saucepan over high heat. Mash the berries with a fork or stick blender. Stir until the berries have turned into a thick sauce. If desired, sweeten the sauce to taste. Allow the compote to cool completely.
 2. Just before serving, top the cheesecake with the strawberry compote and reserved fresh strawberries. Leftovers will keep in the fridge for 5 days.
 
-
-
-## Serving Suggestions
-
