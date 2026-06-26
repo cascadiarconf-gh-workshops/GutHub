@@ -2,9 +2,9 @@
 title: Vegan Strawberry Cheesecake
 author: Mary Dinsdale
 date: "2026-06-26"
-categories: [list, categories, you, want, here]
-description: "Add a short description of your recipe here"
-image: "./images/your-image-filename.jpg"
+categories: [vegan, dessert, awesome]
+description: "I love cheesecake!"
+image: "./images/md-vegan-strawberry-cheesecake.JPG
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
