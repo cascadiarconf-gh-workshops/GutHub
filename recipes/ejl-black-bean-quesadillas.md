@@ -28,12 +28,18 @@ image: "./images/black-bean-quesadillas.jpeg"
 
 ## Instructions
 
-1. Add your instructions here in a numbered list for people to follow.
-2. If you'd like to include an image, upload your image to the `recipes/images/` folder. See #3 before uploading.
-3. Make sure you rename your image with the same name as your recipe file before uploading.
-4. Change the recipe.md's image filename in the frontmatter (between `---`). It looks like this: `image: "./images/your-image-filename.jpg"`
+1. Heat the olive oil in a large skillet over medium-high heat.
+2. Add the onion and bell pepper and cook for 7-10 minutes until fork tender.
+3. Stir in the black beans, corn, and taco seasoning. Cook for 5 minutes, stirring often.
+4. Remove from the heat and stir in the lime juice. Set aside.
+5. Working in batches of 2, melt 1 tablespoon of butter in a large skillet over medium-high heat.
+6. Layer half of each tortilla with ⅓ cup shredded cheese, ½ cup black bean mixture, and another ⅓ cup shredded cheese.
+7. Fold it over and cook the quesadillas in the skillet for 1 to 2 minutes per side until the cheese has fully melted and the quesadillas are golden brown.
+8. Repeat with the remaining quesadillas and butter.
+
 
 ## Serving Suggestions
-- Add other suggestions here!
+
+- Serve with guacamole, sour cream, and your favorite salsa.
 
 Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
