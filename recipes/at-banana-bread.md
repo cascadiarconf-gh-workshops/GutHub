@@ -4,7 +4,7 @@ author: AT (allrecipes)
 date: "2026-06-26"
 categories: [baked, bananas]
 description: "Banana bread"
-image: "./images/banana-bread.jpg" or leave empty quotes for now like ""
+image: "./images/banana-bread.jpg"
 ---
 
 <p align="center">
