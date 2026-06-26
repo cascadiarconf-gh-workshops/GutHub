@@ -2,7 +2,7 @@
 title: Banana Bread
 author: AT (allrecipes)
 date: "2026-06-26"
-categories: [side dish, dip, black beans]
+categories: [baked, bananas]
 description: "Banana bread"
 image: "./images/banana-bread.jpg" or leave empty quotes for now like ""
 ---
