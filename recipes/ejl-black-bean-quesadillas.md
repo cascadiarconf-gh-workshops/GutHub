@@ -4,12 +4,12 @@ author: Emile Latour
 date: "2026-06-26"
 categories: [main dish, black beans, vegetarian]
 description: "Add a short description of your recipe here"
-image: "./images/your-image-filename.jpg"
+image: "./images/black-bean-quesadillas.jpeg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="./images/your-image-filename.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/black-bean-quesadillas.jpeg" alt="Image from https://spicecravings.com/black-bean-quesadillas" width="300"/>
 </p>
 
 ## Ingredients
