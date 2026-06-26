@@ -1,9 +1,9 @@
 ---
-title: Your Title Goes Here
-author: A name goes here
-date: "2025-03-05"
-categories: [list, categories, you, want, here]
-description: "Add a short description of your recipe here"
+title: Gluten free Goat cheese cheesecake
+author: Erin F. E. Pinkston
+date: "2026-06-26"
+categories: [gluten free, Celiac safe, dessert, goat cheese, cheesecake]
+description: "Yummiest results achieved if drinking wine while baking"
 image: "./images/your-image-filename.jpg"
 ---
 
@@ -13,12 +13,13 @@ image: "./images/your-image-filename.jpg"
 </p>
 
 ## Ingredients
+Recipe intended for 9-inch springform pan.
 
-- List
-- ingredients
-- and
-- amounts
-- here
+Crust
+- 2 cups gluten free graham crackers
+- 1/3 cup unsalted butter, melted
+- 2 tbsp sugar
+- Cooking spray
 
 ## Instructions
 
