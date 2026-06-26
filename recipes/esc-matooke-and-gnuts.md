@@ -4,12 +4,12 @@ author: Eric Coker
 date: "2026-06-26"
 categories: [african cuisine, east africa, vegan, plant-based]
 description: "This is a recipe for a tradicitional dish from Uganda, known as Matooke and G-Nuts. Matooke and G-Nuts is a 100% plant-based meal, requiring minimal, yet hard-to-find ingredients if you are outside of Uganda. Much like many dishes in Uganda, this uniquely Ugandan dish involves cooking a G-Nut sauce (G-Nut is short for Ground Nut) that is served on the Matooke (a type of banana that is indigenous to Uganda)."
-image: "C:/Users/or0297983/Downloads/matooke.jpg"
+image: "./images/matooke.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="C:/Users/or0297983/Downloads/matooke.jpg" alt="Matooke and G-Nut served in the traditional style" width="300"/>
+  <img src="./images/matooke.jpg" alt="Matooke and G-Nut served in the traditional style" width="300"/>
 </p>
 
 ## Ingredients
