@@ -42,4 +42,6 @@ image: "./images/black-bean-quesadillas.jpeg"
 
 - Serve with guacamole, sour cream, and your favorite salsa.
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+## Attribution
+
+Recipe courtesy of [Isabel Eats](https://www.isabeleats.com/black-bean-quesadillas/)
