@@ -9,7 +9,7 @@ image: ".recipes/images/kbn-vegan-banana-bread.jpg"
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src="recipes/images/kbn-vegan-banana-bread.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src=".recipes/images/kbn-vegan-banana-bread.jpg" alt="A short description of your photo goes here" width="300"/>
 </p>
 
 ## Ingredients
