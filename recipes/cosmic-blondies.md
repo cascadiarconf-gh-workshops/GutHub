@@ -42,11 +42,15 @@ image: "./images/VV-Cosmic-Blondies-3-jfgb-superJumbo.jpg"
 5. Bake for 22 to 24 minutes, until the top looks set and the sides begin to pull away from the pan's edges. Remove the pan from the oven and gently tap it a couple times on a clean work surface to create a chewier texture, then let the blondies cool completely in the pan. Transfer to a cutting board (or a wire rack set over a sheet pan) for decorating.
 
 ### Make the ganache
-6. 
+6. In a medium saucepan, gently warm the heavy cream over medium heat until small bubbles start to form around the edges and steam starts rising from the surface, 3 to 5 minutes. Remove the heat and add the white chocolate and salt. Let the chocolate melt in the hot cream for a minute, then whisk until no chunks remain.
+7. Dividing evenly, quickly pour two-thirds of the ganache into 2 separate bowls (1/3 each), leaving the remiaining one-third in the saucepan. Tint the chocolate in the bowls with the food colorings (see Tips). Pour alternating dollops of the colored ganache oll over the surface of the cooled blondies, then dollop plain white ganache to cover the empty spaces. Using an offset spatula or the back of a spoon, swirl and smooth the colors until the desired effect is achieved and the blondies are fully covered. Lightly sprinkle sanding sugar over the surface, if using, then lightly dust with flaky salt. Allow the ganache to set, either 30 minutes at room temperature or 15 minutes in the fridge.
+8. Cut blondies into squares and serve immediately, sotring any leftovers in an airtight container in a single layer at room temperature for up to 3 days.
 
-## Serving Suggestions
-- Add other suggestions here!
+## Tips
+- Make sure to use real white chocolate and not white baking chips - look for cocoa butter in the ingredients. Baking chips tend to seize the ganache.
+- For the most dramatic swirls, avoid choosing contrasting colors for your two bowls of colored ganache. Blue and orange for example would create brown when swirled together. Color suggestions to avoid brown swirls: yellow and green, pink and purple, or red an blue. I like teal and purple. Gel food coloring intensifies as it sits so start with just a couple drops. You can always add more.
+- Check the NYT website for a video tutorial for the swirling/smoothing of ganache. https://cooking.nytimes.com/recipes/779815297-cosmic-blondies
 
-Maybe a kind note, quote, or personal story here. Or perhaps explain why you shared this food?
+My kid calls these unicorn cookies.
 
 ```
