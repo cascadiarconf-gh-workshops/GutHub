@@ -4,14 +4,14 @@ author: Lydia Woldemichael
 date: "2026-06-26"
 categories: [side dish, dip, black beans]
 description: "A simple, tasty recipe for black beans"
-image: "./images/ynh-brazilian-beans.jpg" or leave empty quotes for now like ""
+image: "./images/lw-banana-smoothie.jpg"
 ---
 
 <p align="center">
-  <img src="./images/ynh-brazilian-beans.jpg" alt="Brazilian Beans" width="300"/>
+  <img src="./images/lw-banana-smoothie.jpg" alt="Banana Smoothie with a 3 slices of banana on top with a sprinkle of cinnamon" width="300"/>
 </p>
 
-# Brazilian Beans and Rice
+# Banana Smoothie
 
 ## Ingredients
 - 1 cup black beans
