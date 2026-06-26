@@ -40,6 +40,7 @@ Cheesecake filling
 6. Fill tea kettle with water.
 7. Pour filling into springform pan over cooled crust. Place pan into a large shallow roasting pan or casserole dish. Please note that differences in material (i.e., metal versus glass) may affect cooking time. Monitor accordingly. Fill roasting pan or casserole dish with hot water, around the spring form pan. Make sure not to splash water between layers of tin foil.
 8. Bake at 325 degree F for 1 hour and 20 minutes or until center barely moves when pan is touched. Carefully remove cheesecake and dish from oven; lift cheesecake from dish and play on wire rack. Run a knife around the outside edge of the cheesecake. Allow to cool to room temperature. Cover with plastic wrap and chill in fridge for a minimum of 8 hours.
+9. Carefully release from springform pan and place on serving dish when ready.
 ## Serving Suggestions
 - Serves 8 or 1, depending on personal motivation
 
