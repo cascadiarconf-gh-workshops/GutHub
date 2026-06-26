@@ -14,11 +14,17 @@ image: "./images/black-bean-quesadillas.jpeg"
 
 ## Ingredients
 
-- List
-- ingredients
-- and
-- amounts
-- here
+- 1 tablespoon olive oil
+- 1 cup diced yellow onion
+- 1 cup diced green bell pepper
+- 1 (15-ounce) can black beans, drained and rinsed
+- 1 cup corn (frozen, canned, or fresh)
+- 1 ½ tablespoons taco seasoning (homemade or store-bought)
+- 2 tablespoons lime juice (about 1 lime)
+- 6 large flour tortillas (10-inch burrito size)
+- 4 cups shredded cheese, divided (Monterey Jack, cheddar, mozzarella, Chihuahua, Oaxaca, and quesadilla are great)
+- 3 tablespoons butter, divided
+
 
 ## Instructions
 
