@@ -35,3 +35,6 @@ image: "./images/mm-fried-egg-yakisoba.webp"
 7. Stir until noodles are well-coated, about 2 minutes
 8. Add green half of scallions, coarsely chopped. Cook 2 minutes
 9. Divide into four portions and serve topped with egg, sesame seeds, and pinch of pepper
+
+## Serving Suggestions
+Eat it piping hot!
