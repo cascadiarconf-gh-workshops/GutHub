@@ -4,7 +4,7 @@ author: Erin F. E. Pinkston
 date: "2026-06-26"
 categories: [gluten free, Celiac safe, dessert, goat cheese, cheesecake]
 description: "Yummiest results achieved if drinking wine while baking"
-image: "/images/efep-gluten-free-goat-cheese-cheesecake.png"
+image: "./images/efep-gluten-free-goat-cheese-cheesecake.png"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
