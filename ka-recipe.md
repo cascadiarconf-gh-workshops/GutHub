@@ -19,6 +19,6 @@ image: "./images/ka-recipe.jpg"
 
 ## Instructions
 1. Blend egg and banana until smooth.
-2. Oil skillet over medium-high heat.
+2. Heat oil in skillet over medium-high heat.
 3. Cook 1-2 minutes on each side.
 4. Enjoy!
