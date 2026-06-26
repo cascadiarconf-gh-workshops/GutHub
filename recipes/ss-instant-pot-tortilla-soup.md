@@ -14,7 +14,6 @@ image: "./images/ss-instant-pot-tortilla-soup.jpg"
 
 ## Ingredients
 
-Soup
 - 8 corn tortillas
 - 3 teaspoons olive oil
 - 4-5 garlic cloves, minced
@@ -33,8 +32,6 @@ Soup
 - 1 tsp chili powder
 - Salt
 - Fresh ground black pepper 
-
-Toppings
 - Chopped red onion
 - Lime wedges
 - Cilantro
@@ -47,7 +44,7 @@ Toppings
 3. To the pressure cooker (still on sauté, add the last tablespoon of oil and the garlic. Cook till fragrant. Add the chopped tortillas, veggie broth, tomato sauce and roasted tomatoes, beans, corn, hominy, chipote, and spices.
 4. Seal and cook on high pressure for 20 minutes. Allow it to naturally release.
 5. After it has released, add the zucchini, turn on sauté setting again, and let simmer till zucchini is tender.
-6. Ladle into bowls and add toppings!
+6. Ladle into bowls and add toppings (red onion, fresh squeezed lime, cilantro, and shredded cheese)!
 
 ## Serving Suggestions
  - Fresh-squeezed lime is a must
