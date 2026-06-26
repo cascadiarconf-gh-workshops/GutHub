@@ -7,8 +7,6 @@ description: "Airy, delicate, and crisp-edged waffles"
 image: ""
 ---
 
-Here is a template you can use to create your own recipe. Copy the content below into a new file to get started!
-
 ```markdown
 
 
