@@ -3,12 +3,12 @@ title: Sheet-Pan Salmon & Broccoli
 author: Lidey Heuck, via NY Times Cooking
 date: "2026-06-26"
 categories: [easy, entree, healthy, fish]
-description: "Healthy sheet-pan dinner that comes together in just 20 minutes."
-image: "./images/dk-salmon.jpg"
+description: "Healthy sheet pan dinner that comes together in just 20 minutes."
+image: "./images/dk-salmon.webp"
 ---
 
 <p align="center">
-  <img src="./images/dk-salmon.jpg" alt="Salmon and Broccoli" width="300"/>
+  <img src="./images/dk-salmon.webp" alt="Salmon and Broccoli" width="300"/>
 </p>
 
 # Sheet-Pan Salmon and Broccoli
