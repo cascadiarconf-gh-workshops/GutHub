@@ -2,7 +2,7 @@
 title: Creamy Hummus
 author: Kelse Kwaiser
 date: "2026-06-26"
-categories: Chips, dips, chains, whips
+categories: [Chips, dips, chains, whips]
 description: "This hummus is velvety-smooth and creamy, with a satisfyingly rich, balanced flavor. To achieve a perfectly smooth texture, we simmered canned chickpeas with water and baking soda for 20 minutes and then quickly removed their grainy skins by gently swishing them under a few changes of water. Tahini is a major source of richness and flavor in hummus. To avoid the bitter flavors that can come from tahini made with heavily roasted sesame seeds, we chose a light-colored tahini, which indicated that the seeds were only gently toasted. For balanced garlic flavor, we steeped the garlic in lemon juice and salt to extract its flavor and deactivate alliinase, the enzyme that gives this allium its harsh bite. Finally, we added ample fresh lemon juice to give the hummus a bright flavor.
 
 The hummus will thicken slightly over time; add warm water, 1 tablespoon at a time, as needed
