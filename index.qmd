@@ -1,5 +1,5 @@
 ---
-title: "Cascadia R Conference 2025 'GutHub' Community Cookbook"
+title: "Cascadia R Conference 2025-2026 'GutHub' Community Cookbook"
 listing:
   contents: recipes
   sort:
@@ -13,4 +13,4 @@ listing:
   image-align: left
 ---
 
-Welcome to the Cascadia R Conference 2025 GutHub community cookbook! This cookbook is automatically generated from recipe submissions to the GutHub `recipes` folder. Try it out yourself by following our contribution instructions in the [GutHub README](https://github.com/cascadiarconf-gh-workshops/GutHub).
+Welcome to the Cascadia R Conference 2025-2026 GutHub community cookbook! This cookbook is automatically generated from recipe submissions to the GutHub `recipes` folder. Try it out yourself by following our contribution instructions in the [GutHub README](https://github.com/cascadiarconf-gh-workshops/GutHub).
