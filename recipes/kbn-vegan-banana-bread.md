@@ -4,12 +4,12 @@ author: Kelsey Nichols
 date: "2026-06-26"
 categories: [bread, vegan, dessert, banana bread, nom noms]
 description: "The best vegan banana bread you'll ever eat is moist, flavorful and tastes like the nostalgic, traditional banana bread you know and love. This easy vegan banana bread recipe uses simple ingredients and makes an incredible brunch treat or snack. Options to add chocolate chips and nuts to make it extra special!"
-image: ".recipes/images/kbn-vegan-banana-bread.jpg"
+image: "./images/kbn-vegan-banana-bread.jpg"
 ---
 
 <!-- Replace the img src file path below with the same path you used in the YAML above -->
 <p align="center">
-  <img src=".recipes/images/kbn-vegan-banana-bread.jpg" alt="A short description of your photo goes here" width="300"/>
+  <img src="./images/kbn-vegan-banana-bread.jpg" alt="A short description of your photo goes here" width="300"/>
 </p>
 
 ## Ingredients
